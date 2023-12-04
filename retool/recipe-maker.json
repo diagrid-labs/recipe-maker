@@ -1,0 +1,1630 @@
+{
+  "uuid": "b66e912e-8ece-11ee-b5d4-835efa9ac333",
+  "page": {
+    "id": 214907709,
+    "data": {
+      "appState": "[\"~#iR\",[\"^ \",\"n\",\"appTemplate\",\"v\",[\"^ \",\"isFetching\",false,\"plugins\",[\"~#iOM\",[\"$header\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"$header\",\"uuid\",null,\"type\",\"frame\",\"subtype\",\"Frame\",\"namespace\",null,\"resourceName\",null,\"resourceDisplayName\",null,\"template\",[\"^3\",[\"type\",\"header\",\"sticky\",true,\"isHiddenOnDesktop\",false,\"isHiddenOnMobile\",false,\"style\",[\"^3\",[\"primary-surface\",\"rgb(23, 61, 36)\",\"primary-text\",\"\",\"accent-background\",\"rgb(70, 166, 124)\"]],\"_disclosedFields\",[\"primary-surface\",\"accent-background\"],\"paddingType\",\"normal\"]],\"style\",[\"^3\",[]],\"position2\",null,\"mobilePosition2\",null,\"mobileAppPosition\",null,\"tabIndex\",null,\"container\",\"\",\"createdAt\",\"~m1680561665593\",\"updatedAt\",\"~m1700580670201\",\"folder\",\"\",\"screen\",null]]],\"title\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"title\",\"^4\",null,\"^5\",\"widget\",\"^6\",\"TextWidget2\",\"^7\",null,\"^8\",null,\"^9\",null,\"^:\",[\"^3\",[\"heightType\",\"auto\",\"horizontalAlign\",\"left\",\"marginType\",\"normal\",\"hidden\",false,\"imageWidth\",\"fit\",\"showInEditor\",false,\"verticalAlign\",\"top\",\"tooltipText\",\"\",\"value\",\"### Recipe Maker\",\"style\",[\"^3\",[\"color\",\"rgba(255, 255, 255, 1)\"]],\"_disclosedFields\",[\"~#iL\",[\"color\"]],\"disableMarkdown\",false,\"overflowType\",\"scroll\",\"maintainSpaceWhenHidden\",false]],\"^;\",[\"^3\",[]],\"^<\",[\"^0\",[\"^ \",\"n\",\"position2\",\"v\",[\"^ \",\"^@\",\"\",\"rowGroup\",\"body\",\"subcontainer\",\"header\",\"row\",0,\"col\",0,\"height\",0.2,\"width\",3,\"tabNum\",0]]],\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1680561666222\",\"^B\",\"~m1700580715990\",\"^C\",\"\",\"^D\",null]]],\"$main\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"$main\",\"^4\",null,\"^5\",\"frame\",\"^6\",\"Frame\",\"^7\",null,\"^8\",null,\"^9\",null,\"^:\",[\"^3\",[\"type\",\"main\",\"sticky\",false,\"isHiddenOnDesktop\",false,\"isHiddenOnMobile\",false,\"_disclosedFields\",[],\"paddingType\",\"normal\"]],\"^;\",[\"^3\",[]],\"^<\",null,\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1680561666259\",\"^B\",\"~m1692768410617\",\"^C\",\"\",\"^D\",null]]],\"requestForm\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"requestForm\",\"^4\",\"6214effe-cd1f-4444-9990-a70ba8704b84\",\"^5\",\"widget\",\"^6\",\"FormWidget2\",\"^7\",null,\"^8\",null,\"^9\",null,\"^:\",[\"^3\",[\"disableSubmit\",false,\"heightType\",\"fixed\",\"showFooterBorder\",true,\"resetAfterSubmit\",true,\"submitting\",false,\"marginType\",\"normal\",\"enableFullBleed\",false,\"showBorder\",true,\"hidden\",false,\"data\",[\"^ \"],\"showHeader\",true,\"hoistFetching\",false,\"paddingType\",\"normal\",\"initialData\",null,\"showInEditor\",false,\"footerPaddingType\",\"normal\",\"tooltipText\",\"\",\"showHeaderBorder\",true,\"invalid\",false,\"showFooter\",true,\"events\",[\"^E\",[[\"^3\",[\"method\",\"trigger\",\"enabled\",\"{{ !requestForm.invalid }}\",\"params\",[\"^3\",[]],\"targetId\",null,\"pluginId\",\"saveRequest\",\"waitType\",\"debounce\",\"event\",\"submit\",\"type\",\"datasource\",\"waitMs\",\"0\"]],[\"^3\",[\"event\",\"submit\",\"type\",\"datasource\",\"method\",\"trigger\",\"pluginId\",\"lastRequests\",\"targetId\",null,\"params\",[\"^3\",[]],\"waitType\",\"debounce\",\"waitMs\",\"1000\"]],[\"^3\",[\"event\",\"submit\",\"type\",\"datasource\",\"method\",\"trigger\",\"pluginId\",\"lastResults\",\"targetId\",null,\"params\",[\"^3\",[]],\"waitType\",\"debounce\",\"waitMs\",\"4000\"]]]],\"loading\",false,\"overflowType\",\"scroll\",\"disabled\",false,\"headerPaddingType\",\"normal\",\"requireValidation\",true,\"maintainSpaceWhenHidden\",false,\"showBody\",true]],\"^;\",[\"^3\",[]],\"^<\",[\"^0\",[\"^ \",\"n\",\"position2\",\"v\",[\"^ \",\"^@\",\"\",\"^F\",\"body\",\"^G\",\"\",\"row\",0,\"col\",0,\"^H\",7,\"^I\",6,\"^J\",0]]],\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1700580764074\",\"^B\",\"~m1701421739974\",\"^C\",\"\",\"^D\",null]]],\"formTitle1\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"formTitle1\",\"^4\",\"9fae1d74-b6ac-4e36-9274-81d536590921\",\"^5\",\"widget\",\"^6\",\"TextWidget2\",\"^7\",null,\"^8\",null,\"^9\",null,\"^:\",[\"^3\",[\"heightType\",\"auto\",\"horizontalAlign\",\"left\",\"marginType\",\"normal\",\"hidden\",false,\"imageWidth\",\"fit\",\"showInEditor\",false,\"verticalAlign\",\"center\",\"tooltipText\",\"\",\"value\",\"#### Request a Recipe\",\"disableMarkdown\",false,\"overflowType\",\"scroll\",\"maintainSpaceWhenHidden\",false]],\"^;\",[\"^3\",[]],\"^<\",[\"^0\",[\"^ \",\"n\",\"position2\",\"v\",[\"^ \",\"^@\",\"requestForm\",\"^F\",\"header\",\"^G\",\"\",\"row\",0,\"col\",0,\"^H\",0.6,\"^I\",12,\"^J\",0]]],\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1700580764107\",\"^B\",\"~m1701680856990\",\"^C\",\"\",\"^D\",null]]],\"formButton1\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"formButton1\",\"^4\",\"148b43ac-7dcb-4ee7-ab71-4400d7ebd78f\",\"^5\",\"widget\",\"^6\",\"ButtonWidget2\",\"^7\",null,\"^8\",null,\"^9\",null,\"^:\",[\"^3\",[\"horizontalAlign\",\"stretch\",\"clickable\",false,\"iconAfter\",\"\",\"submitTargetId\",\"requestForm\",\"marginType\",\"normal\",\"hidden\",false,\"text\",\"Submit\",\"showInEditor\",false,\"tooltipText\",\"\",\"styleVariant\",\"solid\",\"submit\",true,\"iconBefore\",\"\",\"events\",[\"^3\",[]],\"loading\",false,\"loaderPosition\",\"auto\",\"disabled\",false,\"maintainSpaceWhenHidden\",false]],\"^;\",[\"^3\",[]],\"^<\",[\"^0\",[\"^ \",\"n\",\"position2\",\"v\",[\"^ \",\"^@\",\"requestForm\",\"^F\",\"footer\",\"^G\",\"\",\"row\",0,\"col\",8,\"^H\",1,\"^I\",4,\"^J\",0]]],\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1700580764123\",\"^B\",\"~m1701421739984\",\"^C\",\"\",\"^D\",null]]],\"foodType\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"foodType\",\"^4\",\"40c7c333-1244-4e9f-9b43-f42b33826254\",\"^5\",\"widget\",\"^6\",\"SelectWidget2\",\"^7\",null,\"^8\",null,\"^9\",null,\"^:\",[\"^3\",[\"imageByIndex\",[],\"_disabledByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"showSelectionIndicator\",true,\"_values\",[\"^E\",[\"Non vegetarian\",\"Vegetarian\",\"Vegan\"]],\"iconByIndex\",[],\"values\",[],\"readOnly\",false,\"iconAfter\",\"\",\"_iconByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"overlayMinWidth\",null,\"allowDeselect\",false,\"inputValue\",\"\",\"marginType\",\"normal\",\"hidden\",false,\"customValidation\",\"\",\"data\",[],\"searchMode\",\"fuzzy\",\"hideValidationMessage\",false,\"fallbackTextByIndex\",[],\"textBefore\",\"\",\"_fallbackTextByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"selectedItem\",null,\"validationMessage\",\"\",\"automaticItemColors\",false,\"itemAdornmentShape\",\"circle\",\"textAfter\",\"\",\"showInEditor\",false,\"showClear\",false,\"tooltipText\",\"\",\"labelAlign\",\"left\",\"formDataKey\",\"{{ self.id }}\",\"value\",null,\"hiddenByIndex\",[],\"labelCaption\",\"\",\"labelWidth\",\"33\",\"deprecatedLabels\",[],\"_hiddenByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"placeholder\",\"Select an option\",\"_captionByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"itemAdornmentSize\",\"auto\",\"label\",\"Diet type\",\"_hasMigratedNestedItems\",true,\"captionByIndex\",[],\"_validate\",false,\"itemMode\",\"static\",\"labelWidthUnit\",\"%\",\"allowCustomValue\",false,\"invalid\",false,\"selectedIndex\",null,\"_tooltipByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"_colorByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"tooltipByIndex\",[],\"iconBefore\",\"\",\"colorByIndex\",[],\"selectedLabel\",\"\",\"events\",[\"^3\",[]],\"_ids\",[\"^E\",[\"5e4d9\",\"5ceb0\",\"7e9c0\"]],\"emptyMessage\",\"No options\",\"overlayMaxHeight\",375,\"loading\",false,\"disabled\",false,\"labelPosition\",\"left\",\"_labels\",[\"^E\",[\"\",\"\",\"\"]],\"labelWrap\",false,\"disabledValues\",[],\"disabledByIndex\",[],\"maintainSpaceWhenHidden\",false,\"_imageByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"required\",true,\"labels\",[]]],\"^;\",[\"^3\",[]],\"^<\",[\"^0\",[\"^ \",\"n\",\"position2\",\"v\",[\"^ \",\"^@\",\"requestForm\",\"^F\",\"body\",\"^G\",\"\",\"row\",0.2,\"col\",0,\"^H\",0.2,\"^I\",12,\"^J\",0]]],\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1700580800647\",\"^B\",\"~m1700659147930\",\"^C\",\"\",\"^D\",null]]],\"recipeDifficulty\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"recipeDifficulty\",\"^4\",\"5b42d0e3-b5e4-48ca-82cc-5576e08520ab\",\"^5\",\"widget\",\"^6\",\"SelectWidget2\",\"^7\",null,\"^8\",null,\"^9\",null,\"^:\",[\"^3\",[\"imageByIndex\",[],\"_disabledByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"showSelectionIndicator\",true,\"_values\",[\"^E\",[\"Easy\",\"Medium\",\"Hard\"]],\"iconByIndex\",[],\"values\",[],\"readOnly\",false,\"iconAfter\",\"\",\"_iconByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"overlayMinWidth\",null,\"allowDeselect\",false,\"inputValue\",\"\",\"marginType\",\"normal\",\"hidden\",false,\"customValidation\",\"\",\"data\",[],\"searchMode\",\"fuzzy\",\"hideValidationMessage\",false,\"fallbackTextByIndex\",[],\"textBefore\",\"\",\"_fallbackTextByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"selectedItem\",null,\"validationMessage\",\"\",\"automaticItemColors\",false,\"itemAdornmentShape\",\"circle\",\"textAfter\",\"\",\"showInEditor\",false,\"showClear\",false,\"tooltipText\",\"\",\"labelAlign\",\"left\",\"formDataKey\",\"{{ self.id }}\",\"value\",null,\"hiddenByIndex\",[],\"labelCaption\",\"\",\"labelWidth\",\"33\",\"deprecatedLabels\",[],\"_hiddenByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"placeholder\",\"Select an option\",\"_captionByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"itemAdornmentSize\",\"auto\",\"label\",\"Difficulty\",\"_hasMigratedNestedItems\",true,\"captionByIndex\",[],\"_validate\",false,\"itemMode\",\"static\",\"labelWidthUnit\",\"%\",\"allowCustomValue\",false,\"invalid\",false,\"selectedIndex\",null,\"_tooltipByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"_colorByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"tooltipByIndex\",[],\"iconBefore\",\"\",\"colorByIndex\",[],\"selectedLabel\",\"\",\"events\",[\"^3\",[]],\"_ids\",[\"^E\",[\"5e4d9\",\"5ceb0\",\"7e9c0\"]],\"emptyMessage\",\"No options\",\"overlayMaxHeight\",375,\"loading\",false,\"disabled\",false,\"labelPosition\",\"left\",\"_labels\",[\"^E\",[\"\",\"\",\"\"]],\"labelWrap\",false,\"disabledValues\",[],\"disabledByIndex\",[],\"maintainSpaceWhenHidden\",false,\"_imageByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"required\",true,\"labels\",[]]],\"^;\",[\"^3\",[]],\"^<\",[\"^0\",[\"^ \",\"n\",\"position2\",\"v\",[\"^ \",\"^@\",\"requestForm\",\"^F\",\"body\",\"^G\",\"\",\"row\",0.39999999999999997,\"col\",0,\"^H\",0.2,\"^I\",12,\"^J\",0]]],\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1700580804170\",\"^B\",\"~m1700580991981\",\"^C\",\"\",\"^D\",null]]],\"foodRestrictions\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"foodRestrictions\",\"^4\",\"71b0959a-fa91-4581-a6c7-e8b8fb242d0f\",\"^5\",\"widget\",\"^6\",\"TextInputWidget2\",\"^7\",null,\"^8\",null,\"^9\",null,\"^:\",[\"^3\",[\"spellCheck\",false,\"readOnly\",false,\"iconAfter\",\"\",\"showCharacterCount\",false,\"autoComplete\",false,\"marginType\",\"normal\",\"maxLength\",null,\"hidden\",false,\"customValidation\",\"\",\"patternType\",\"\",\"hideValidationMessage\",false,\"textBefore\",\"\",\"validationMessage\",\"\",\"textAfter\",\"\",\"showInEditor\",false,\"showClear\",false,\"pattern\",\"\",\"tooltipText\",\"\",\"labelAlign\",\"left\",\"formDataKey\",\"{{ self.id }}\",\"value\",\"\",\"labelCaption\",\"\",\"labelWidth\",\"33\",\"autoFill\",\"\",\"placeholder\",\"Enter value\",\"label\",\"Other restrictions\",\"_validate\",false,\"labelWidthUnit\",\"%\",\"invalid\",false,\"iconBefore\",\"\",\"minLength\",null,\"inputTooltip\",\"\",\"events\",[\"^3\",[]],\"autoCapitalize\",\"none\",\"loading\",false,\"disabled\",false,\"labelPosition\",\"left\",\"labelWrap\",false,\"maintainSpaceWhenHidden\",false,\"required\",false]],\"^;\",[\"^3\",[]],\"^<\",[\"^0\",[\"^ \",\"n\",\"position2\",\"v\",[\"^ \",\"^@\",\"requestForm\",\"^F\",\"body\",\"^G\",\"\",\"row\",0.5999999999999999,\"col\",0,\"^H\",0.2,\"^I\",12,\"^J\",0]]],\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1700580940900\",\"^B\",\"~m1700659227401\",\"^C\",\"\",\"^D\",null]]],\"lastRequests\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"lastRequests\",\"^4\",null,\"^5\",\"datasource\",\"^6\",\"RESTQuery\",\"^7\",null,\"^8\",\"94d5cdcd-d531-4110-b8ed-9c14b376d676\",\"^9\",\"catalyst_api\",\"^:\",[\"^3\",[\"queryRefreshTime\",\"5000\",\"paginationLimit\",\"\",\"allowedGroupIds\",[\"^E\",[]],\"streamResponse\",false,\"body\",\"{\\n    \\\"filter\\\": {\\n        \\\"EQ\\\": { \\\"request\\\": \\\"true\\\" }\\n    },\\n    \\\"sort\\\": [\\n        {\\n            \\\"key\\\": \\\"createdAt\\\",\\n            \\\"order\\\": \\\"DESC\\\"\\n        }\\n    ]\\n}\",\"lastReceivedFromResourceAt\",null,\"queryDisabledMessage\",\"\",\"servedFromCache\",false,\"offlineUserQueryInputs\",\"\",\"successMessage\",\"\",\"queryDisabled\",\"\",\"playgroundQuerySaveId\",\"latest\",\"workflowParams\",null,\"resourceNameOverride\",\"\",\"runWhenModelUpdates\",false,\"paginationPaginationField\",\"\",\"headers\",\"\",\"workflowRunId\",null,\"showFailureToaster\",true,\"paginationEnabled\",false,\"query\",\"/v1.0-alpha1/state/database/query\",\"playgroundQueryUuid\",\"\",\"playgroundQueryId\",null,\"error\",null,\"workflowRunBodyType\",\"raw\",\"privateParams\",[\"^E\",[]],\"workflowBlockUuid\",null,\"runWhenPageLoadsDelay\",\"500\",\"data\",null,\"importedQueryInputs\",[\"^3\",[]],\"isImported\",false,\"showSuccessToaster\",false,\"cacheKeyTtl\",\"\",\"requestSentTimestamp\",null,\"cookies\",\"\",\"metadata\",null,\"workflowActionType\",null,\"queryRunTime\",null,\"changesetObject\",\"\",\"errorTransformer\",\"// The variable 'data' allows you to reference the request's data in the transformer. \\n// example: return data.find(element => element.isError)\\nreturn data.error\",\"finished\",null,\"confirmationMessage\",null,\"isFetching\",false,\"changeset\",\"\",\"rawData\",null,\"queryTriggerDelay\",\"0\",\"resourceTypeOverride\",\"\",\"watchedParams\",[\"^E\",[]],\"enableErrorTransformer\",false,\"showLatestVersionUpdatedWarning\",false,\"paginationDataField\",\"\",\"timestamp\",0,\"importedQueryDefaults\",[\"^3\",[]],\"enableTransformer\",true,\"showUpdateSetValueDynamicallyToggle\",true,\"version\",2,\"overrideOrgCacheForUserCache\",false,\"runWhenPageLoads\",true,\"transformer\",\"// Query results are available as the `data` variable\\nreturn data.results\",\"events\",[\"^E\",[]],\"isMultiplayerEdited\",false,\"queryTimeout\",\"10000\",\"workflowId\",null,\"requireConfirmation\",false,\"type\",\"POST\",\"queryFailureConditions\",\"\",\"changesetIsObject\",false,\"enableCaching\",false,\"allowedGroups\",[\"^E\",[]],\"workflowBlockPluginId\",null,\"bodyType\",\"raw\",\"offlineQueryType\",\"None\",\"queryThrottleTime\",\"750\",\"updateSetValueDynamically\",false,\"notificationDuration\",\"\"]],\"^;\",null,\"^<\",null,\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1700581148728\",\"^B\",\"~m1701277228229\",\"^C\",\"\",\"^D\",null]]],\"saveRequest\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"saveRequest\",\"^4\",null,\"^5\",\"datasource\",\"^6\",\"RESTQuery\",\"^7\",null,\"^8\",\"94d5cdcd-d531-4110-b8ed-9c14b376d676\",\"^9\",\"catalyst_api\",\"^:\",[\"^3\",[\"queryRefreshTime\",\"\",\"paginationLimit\",\"\",\"allowedGroupIds\",[\"^E\",[]],\"streamResponse\",false,\"body\",\"{\\n   \\\"operations\\\":[\\n      {\\n         \\\"operation\\\":\\\"upsert\\\",\\n         \\\"request\\\":{\\n            \\\"key\\\":\\\"{{uuid.v1()}}\\\",\\n            \\\"value\\\": {\\n               \\\"request\\\": \\\"{{true}}\\\",\\n               \\\"mealType\\\": {{ mealType.value }},\\n               \\\"foodType\\\": {{foodType.value}},\\n               \\\"recipeDifficulty\\\": {{recipeDifficulty.value}},\\n               \\\"foodRestrictions\\\": {{foodRestrictions.value}},\\n               \\\"createdAt\\\": {{ new Date().toISOString() }}\\n            }\\n         }\\n      }\\n   ]\\n}\",\"lastReceivedFromResourceAt\",null,\"queryDisabledMessage\",\"\",\"servedFromCache\",false,\"offlineUserQueryInputs\",\"\",\"successMessage\",\"\",\"queryDisabled\",\"\",\"playgroundQuerySaveId\",\"latest\",\"workflowParams\",null,\"resourceNameOverride\",\"\",\"runWhenModelUpdates\",false,\"paginationPaginationField\",\"\",\"headers\",\"\",\"workflowRunId\",null,\"showFailureToaster\",true,\"paginationEnabled\",false,\"query\",\"/v1.0/state/database/transaction\",\"playgroundQueryUuid\",\"\",\"playgroundQueryId\",null,\"error\",null,\"workflowRunBodyType\",\"raw\",\"privateParams\",[\"^E\",[]],\"workflowBlockUuid\",null,\"runWhenPageLoadsDelay\",\"\",\"data\",null,\"importedQueryInputs\",[\"^3\",[]],\"isImported\",false,\"showSuccessToaster\",true,\"cacheKeyTtl\",\"\",\"requestSentTimestamp\",null,\"cookies\",\"\",\"metadata\",null,\"workflowActionType\",null,\"queryRunTime\",null,\"changesetObject\",\"\",\"errorTransformer\",\"// The variable 'data' allows you to reference the request's data in the transformer. \\n// example: return data.find(element => element.isError)\\nreturn data.error\",\"finished\",null,\"confirmationMessage\",null,\"isFetching\",false,\"changeset\",\"\",\"rawData\",null,\"queryTriggerDelay\",\"0\",\"resourceTypeOverride\",\"\",\"watchedParams\",[\"^E\",[]],\"enableErrorTransformer\",false,\"showLatestVersionUpdatedWarning\",false,\"paginationDataField\",\"\",\"timestamp\",0,\"importedQueryDefaults\",[\"^3\",[]],\"enableTransformer\",false,\"showUpdateSetValueDynamicallyToggle\",true,\"version\",2,\"overrideOrgCacheForUserCache\",false,\"runWhenPageLoads\",false,\"transformer\",\"// Query results are available as the `data` variable\\nreturn data\",\"events\",[\"^E\",[]],\"isMultiplayerEdited\",false,\"queryTimeout\",\"10000\",\"workflowId\",null,\"requireConfirmation\",false,\"type\",\"POST\",\"queryFailureConditions\",\"\",\"changesetIsObject\",false,\"enableCaching\",false,\"allowedGroups\",[\"^E\",[]],\"workflowBlockPluginId\",null,\"bodyType\",\"raw\",\"offlineQueryType\",\"None\",\"queryThrottleTime\",\"750\",\"updateSetValueDynamically\",false,\"notificationDuration\",\"\"]],\"^;\",null,\"^<\",null,\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1700581474713\",\"^B\",\"~m1700842351187\",\"^C\",\"\",\"^D\",null]]],\"requestList\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"requestList\",\"^4\",\"3a1fe48f-2e47-46ba-b48f-15392b03f595\",\"^5\",\"widget\",\"^6\",\"TableWidget2\",\"^7\",null,\"^8\",null,\"^9\",null,\"^:\",[\"^3\",[\"selectedRowKey\",null,\"_nextAfterCursor\",\"\",\"_columnBackgroundColor\",[\"^3\",[\"8edcc\",\"\",\"89add\",\"\",\"dcc64\",\"\",\"e3ad9\",\"\",\"7b8dc\",\"\"]],\"_defaultSort\",null,\"_clearChangesetOnSave\",true,\"heightType\",\"fixed\",\"_columnTextColor\",[\"^3\",[\"8edcc\",\"\",\"89add\",\"\",\"dcc64\",\"\",\"e3ad9\",\"\",\"7b8dc\",\"\"]],\"disableEdits\",false,\"autoColumnWidth\",false,\"_rowHeight\",\"small\",\"_columnIds\",[\"^E\",[\"89add\",\"8edcc\",\"dcc64\",\"e3ad9\",\"7b8dc\"]],\"_isSaving\",false,\"_actionIds\",[\"^E\",[\"0f8ac\"]],\"_clearChangeset\",false,\"caseSensitiveFiltering\",false,\"_limitOffsetRowCount\",null,\"selectedSourceRow\",null,\"_dynamicColumnsEnabled\",false,\"disableSave\",false,\"_columnEditableOptions\",[\"^3\",[\"8edcc\",[\"^3\",[\"showStepper\",true]],\"89add\",[\"^3\",[]],\"dcc64\",[\"^3\",[]],\"e3ad9\",[\"^3\",[]],\"7b8dc\",[\"^3\",[]]]],\"_toolbarPosition\",\"bottom\",\"_groupByColumns\",[\"^E\",[]],\"_toolbarButtonLabel\",[\"^3\",[\"1a\",\"Filter\",\"3c\",\"Download\",\"4d\",\"Refresh\"]],\"_nextBeforeCursor\",\"\",\"_persistRowSelection\",false,\"_toolbarButtonIcon\",[\"^3\",[\"1a\",\"bold/interface-text-formatting-filter-2\",\"3c\",\"bold/interface-download-button-2\",\"4d\",\"bold/interface-arrows-round-left\"]],\"changesetArray\",[],\"_toolbarButtonType\",[\"^3\",[\"1a\",\"filter\",\"3c\",\"custom\",\"4d\",\"custom\"]],\"_columnOptionList\",[\"^3\",[\"8edcc\",[\"^3\",[]],\"89add\",[\"^3\",[]],\"dcc64\",[\"^3\",[]],\"e3ad9\",[\"^3\",[]],\"7b8dc\",[\"^3\",[]]]],\"_columnValueOverride\",[\"^3\",[\"8edcc\",\"{{ item.foodType }}\",\"89add\",\"{{ item.createdAt }}\",\"dcc64\",\"{{ item.recipeDifficulty }}\",\"e3ad9\",\"{{ item.foodRestrictions }}\",\"7b8dc\",\"\"]],\"marginType\",\"normal\",\"_showBorder\",true,\"_templatePageSize\",null,\"_dynamicColumnProperties\",[\"^3\",[]],\"_showHeader\",true,\"_currentPage\",0,\"_columnKey\",[\"^3\",[\"8edcc\",\"data\",\"89add\",\"data\",\"dcc64\",\"data\",\"e3ad9\",\"data\",\"7b8dc\",\"key\"]],\"hidden\",false,\"_toolbarButtonIds\",[\"^E\",[\"1a\",\"3c\",\"4d\"]],\"data\",\"{{ lastRequests.data }}\",\"_cellSelection\",\"none\",\"_serverPaginated\",false,\"_linkedFilterId\",null,\"searchMode\",\"fuzzy\",\"_columnCellTooltip\",[\"^3\",[\"8edcc\",\"\",\"89add\",\"\",\"dcc64\",\"\",\"e3ad9\",\"\",\"7b8dc\",\"\"]],\"_columnFormat\",[\"^3\",[\"8edcc\",\"string\",\"89add\",\"datetime\",\"dcc64\",\"string\",\"e3ad9\",\"string\",\"7b8dc\",\"string\"]],\"_cursorCache\",[\"^ \"],\"_calculatedPageSize\",null,\"_primaryKeyColumnId\",\"7b8dc\",\"selectedDataIndex\",null,\"_columnAlignment\",[\"^3\",[\"8edcc\",\"left\",\"89add\",\"left\",\"dcc64\",\"left\",\"e3ad9\",\"left\",\"7b8dc\",\"left\"]],\"_actionIcon\",[\"^3\",[\"0f8ac\",\"bold/interface-delete-bin-1\"]],\"_columnTooltip\",[\"^3\",[\"8edcc\",\"\",\"89add\",\"\",\"dcc64\",\"\",\"e3ad9\",\"\",\"7b8dc\",\"\"]],\"_columnIcon\",[\"^3\",[\"8edcc\",\"\",\"89add\",\"\",\"dcc64\",\"\",\"e3ad9\",\"\",\"7b8dc\",\"\"]],\"_alwaysShowRowSelectionCheckboxes\",false,\"_columnCellTooltipMode\",[\"^3\",[\"8edcc\",\"\",\"89add\",\"\",\"dcc64\",\"\",\"e3ad9\",\"\",\"7b8dc\",\"\"]],\"_pageSize\",null,\"showInEditor\",false,\"selectedSourceRows\",[],\"_enableExpandableRows\",false,\"_selectMultipleRowsOnActionClick\",\"no\",\"_columnSortDisabled\",[\"^3\",[\"8edcc\",false,\"89add\",false,\"dcc64\",false,\"e3ad9\",false,\"7b8dc\",false]],\"_showSummaryRow\",false,\"filterStack\",null,\"_expandedRows\",null,\"changesetObject\",null,\"_actionDisabled\",[\"^3\",[\"0f8ac\",\"\"]],\"_columnReferenceId\",[\"^3\",[\"8edcc\",\"diet\",\"89add\",\"createdAt\",\"dcc64\",\"difficulty\",\"e3ad9\",\"foodRestrictions\",\"7b8dc\",\"\"]],\"_dynamicColumnSource\",[],\"_rowSelection\",\"single\",\"_columnCaption\",[\"^3\",[\"8edcc\",\"\",\"89add\",\"\",\"dcc64\",\"\",\"e3ad9\",\"\",\"7b8dc\",\"\"]],\"_dynamicColumnFormatOptions\",[\"^3\",[]],\"_dynamicRowHeights\",false,\"_columnFormatOptions\",[\"^3\",[\"8edcc\",[\"^3\",[\"showSeparators\",true,\"notation\",\"standard\"]],\"89add\",[\"^3\",[]],\"dcc64\",[\"^3\",[]],\"e3ad9\",[\"^3\",[]],\"7b8dc\",[\"^3\",[]]]],\"_changeset\",null,\"_afterCursor\",\"\",\"selectedRowKeys\",[],\"_beforeCursor\",\"\",\"_columnSummaryAggregationMode\",[\"^3\",[\"8edcc\",\"none\",\"89add\",\"none\",\"dcc64\",\"none\",\"e3ad9\",\"none\",\"7b8dc\",\"none\"]],\"searchTerm\",\"\",\"selectedRows\",[],\"_disabledVirtualization\",false,\"_expandedRowDataIndexes\",[],\"_showColumnBorders\",false,\"_columnStatusIndicatorOptions\",[\"^3\",[\"8edcc\",[\"^3\",[]],\"89add\",[\"^3\",[]],\"dcc64\",[\"^3\",[]],\"e3ad9\",[\"^3\",[]],\"7b8dc\",[\"^3\",[]]]],\"_columnSize\",[\"^3\",[\"89add\",190,\"8edcc\",127,\"dcc64\",100,\"e3ad9\",100,\"7b8dc\",100]],\"_serverPaginationType\",\"limitOffsetBased\",\"_columnSortMode\",[\"^3\",[\"8edcc\",\"default\",\"89add\",\"default\",\"dcc64\",\"default\",\"e3ad9\",\"default\",\"7b8dc\",\"default\"]],\"_selectSingleRowsOnActionClick\",\"replace\",\"_showFooter\",true,\"_groupedColumnConfig\",[\"^3\",[]],\"_dynamicColumnSize\",[\"^3\",[]],\"_virtualizeStartIndex\",0,\"_toolbarButtonHidden\",[\"^3\",[\"1a\",\"\",\"3c\",\"\",\"4d\",\"\"]],\"_defaultFilters\",[\"^3\",[]],\"events\",[\"^E\",[[\"^3\",[\"event\",\"clickAction\",\"type\",\"datasource\",\"method\",\"trigger\",\"pluginId\",\"deleteRequestKey\",\"targetId\",\"0f8ac\",\"params\",[\"^3\",[]],\"waitType\",\"debounce\",\"waitMs\",\"0\"]],[\"^3\",[\"event\",\"clickAction\",\"type\",\"datasource\",\"method\",\"trigger\",\"pluginId\",\"lastRequests\",\"targetId\",\"0f8ac\",\"params\",[\"^3\",[]],\"waitType\",\"debounce\",\"waitMs\",\"700\"]]]],\"_columnEditable\",[\"^3\",[\"8edcc\",\"\",\"89add\",\"false\",\"dcc64\",\"\",\"e3ad9\",\"\",\"7b8dc\",false]],\"_rowBackgroundColor\",[],\"emptyMessage\",\"No rows found\",\"pagination\",null,\"selectedDataIndexes\",[],\"_columnGroupAggregationMode\",[\"^3\",[\"8edcc\",\"sum\",\"89add\",\"none\",\"dcc64\",\"none\",\"e3ad9\",\"none\",\"7b8dc\",\"none\"]],\"sortArray\",[],\"_selectedCell\",null,\"overflowType\",\"scroll\",\"selectedCell\",null,\"_defaultSelectedRow\",[\"^3\",[\"mode\",\"index\",\"indexType\",\"display\",\"index\",0]],\"_hasNextPage\",false,\"_includeRowInChangesetArray\",false,\"_columnPosition\",[\"^3\",[\"8edcc\",\"center\",\"89add\",\"center\",\"dcc64\",\"center\",\"e3ad9\",\"center\",\"7b8dc\",\"center\"]],\"_enableSaveActions\",true,\"_columnPlaceholder\",[\"^3\",[\"8edcc\",\"Enter value\",\"89add\",\"Enter value\",\"dcc64\",\"Enter value\",\"e3ad9\",\"Enter value\",\"7b8dc\",\"Enter value\"]],\"_defaultFilterOperator\",\"and\",\"_actionLabel\",[\"^3\",[\"0f8ac\",\"Delete\"]],\"_virtualizeEndIndex\",0,\"selectedRow\",null,\"_actionHidden\",[\"^3\",[\"0f8ac\",\"\"]],\"maintainSpaceWhenHidden\",false,\"_columnHidden\",[\"^3\",[\"8edcc\",\"\",\"89add\",\"\",\"dcc64\",\"\",\"e3ad9\",\"\",\"7b8dc\",\"true\"]],\"_columnLabel\",[\"^3\",[\"8edcc\",\"Diet\",\"89add\",\"Created at\",\"dcc64\",\"Difficulty\",\"e3ad9\",\"Restrictions\",\"7b8dc\",\"Key\"]],\"_showToolbar\",false]],\"^;\",[\"^3\",[]],\"^<\",[\"^0\",[\"^ \",\"n\",\"position2\",\"v\",[\"^ \",\"^@\",\"container1\",\"^F\",\"body\",\"^G\",\"5316a\",\"row\",-2.7755575615628914e-16,\"col\",0,\"^H\",5.200000000000002,\"^I\",12,\"^J\",0]]],\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1700583893236\",\"^B\",\"~m1701680888863\",\"^C\",\"\",\"^D\",null]]],\"lastResults\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"lastResults\",\"^4\",null,\"^5\",\"datasource\",\"^6\",\"RESTQuery\",\"^7\",null,\"^8\",\"94d5cdcd-d531-4110-b8ed-9c14b376d676\",\"^9\",\"catalyst_api\",\"^:\",[\"^3\",[\"queryRefreshTime\",\"\",\"paginationLimit\",\"\",\"allowedGroupIds\",[\"^E\",[]],\"streamResponse\",false,\"body\",\"{\\n    \\\"filter\\\": {\\n        \\\"EQ\\\": { \\\"result\\\": \\\"true\\\" }\\n    },\\n    \\\"sort\\\": [\\n        {\\n            \\\"key\\\": \\\"createdAt\\\",\\n            \\\"order\\\": \\\"DESC\\\"\\n        }\\n    ]\\n}\",\"lastReceivedFromResourceAt\",null,\"queryDisabledMessage\",\"\",\"servedFromCache\",false,\"offlineUserQueryInputs\",\"\",\"successMessage\",\"\",\"queryDisabled\",\"\",\"playgroundQuerySaveId\",\"latest\",\"workflowParams\",null,\"resourceNameOverride\",\"\",\"runWhenModelUpdates\",false,\"paginationPaginationField\",\"\",\"headers\",\"\",\"workflowRunId\",null,\"showFailureToaster\",true,\"paginationEnabled\",false,\"query\",\"/v1.0-alpha1/state/database/query\",\"playgroundQueryUuid\",\"\",\"playgroundQueryId\",null,\"error\",null,\"workflowRunBodyType\",\"raw\",\"privateParams\",[\"^E\",[]],\"workflowBlockUuid\",null,\"runWhenPageLoadsDelay\",\"\",\"data\",null,\"importedQueryInputs\",[\"^3\",[]],\"isImported\",false,\"showSuccessToaster\",false,\"cacheKeyTtl\",\"\",\"requestSentTimestamp\",null,\"cookies\",\"\",\"metadata\",null,\"workflowActionType\",null,\"queryRunTime\",null,\"changesetObject\",\"\",\"errorTransformer\",\"// The variable 'data' allows you to reference the request's data in the transformer. \\n// example: return data.find(element => element.isError)\\nreturn data.error\",\"finished\",null,\"confirmationMessage\",null,\"isFetching\",false,\"changeset\",\"\",\"rawData\",null,\"queryTriggerDelay\",\"0\",\"resourceTypeOverride\",\"\",\"watchedParams\",[\"^E\",[]],\"enableErrorTransformer\",false,\"showLatestVersionUpdatedWarning\",false,\"paginationDataField\",\"\",\"timestamp\",0,\"importedQueryDefaults\",[\"^3\",[]],\"enableTransformer\",true,\"showUpdateSetValueDynamicallyToggle\",true,\"version\",2,\"overrideOrgCacheForUserCache\",false,\"runWhenPageLoads\",true,\"transformer\",\"// Query results are available as the `data` variable\\nreturn data.results.map((r) => ({ state_key: r.key, ...r.data.recipe }) )\",\"events\",[\"^E\",[]],\"isMultiplayerEdited\",false,\"queryTimeout\",\"10000\",\"workflowId\",null,\"requireConfirmation\",false,\"type\",\"POST\",\"queryFailureConditions\",\"\",\"changesetIsObject\",false,\"enableCaching\",false,\"allowedGroups\",[\"^E\",[]],\"workflowBlockPluginId\",null,\"bodyType\",\"raw\",\"offlineQueryType\",\"None\",\"queryThrottleTime\",\"750\",\"updateSetValueDynamically\",false,\"notificationDuration\",\"\"]],\"^;\",null,\"^<\",null,\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1700584262199\",\"^B\",\"~m1701277234685\",\"^C\",\"\",\"^D\",null]]],\"resultList\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"resultList\",\"^4\",\"362dec59-ba47-44f3-bdb8-e5ab758fb9a6\",\"^5\",\"widget\",\"^6\",\"TableWidget2\",\"^7\",null,\"^8\",null,\"^9\",null,\"^:\",[\"^3\",[\"selectedRowKey\",null,\"_nextAfterCursor\",\"\",\"_columnBackgroundColor\",[\"^3\",[\"0584a\",\"\",\"64b44\",\"\",\"c3ef8\",\"\",\"6972e\",\"\",\"f3479\",\"\",\"3bd30\",\"\",\"9d26a\",\"\",\"0b5fb\",\"\"]],\"_defaultSort\",null,\"_clearChangesetOnSave\",true,\"heightType\",\"fixed\",\"_columnTextColor\",[\"^3\",[\"0584a\",\"\",\"64b44\",\"\",\"c3ef8\",\"\",\"6972e\",\"\",\"f3479\",\"\",\"3bd30\",\"\",\"9d26a\",\"\",\"0b5fb\",\"\"]],\"disableEdits\",false,\"autoColumnWidth\",false,\"_rowHeight\",\"medium\",\"_columnIds\",[\"^E\",[\"3bd30\",\"0b5fb\",\"f3479\",\"c3ef8\",\"0584a\",\"64b44\",\"6972e\",\"9d26a\"]],\"_isSaving\",false,\"_actionIds\",[\"^E\",[\"420b5\",\"32a62\"]],\"_clearChangeset\",false,\"caseSensitiveFiltering\",false,\"_limitOffsetRowCount\",null,\"selectedSourceRow\",null,\"_dynamicColumnsEnabled\",false,\"disableSave\",false,\"_columnEditableOptions\",[\"^3\",[\"0584a\",[\"^3\",[]],\"64b44\",[\"^3\",[]],\"c3ef8\",[\"^3\",[]],\"6972e\",[\"^3\",[]],\"f3479\",[\"^3\",[]],\"3bd30\",[\"^3\",[]],\"9d26a\",[\"^3\",[]],\"0b5fb\",[\"^3\",[]]]],\"_toolbarPosition\",\"bottom\",\"_groupByColumns\",[\"^E\",[]],\"_toolbarButtonLabel\",[\"^3\",[\"1a\",\"Filter\",\"3c\",\"Download\",\"4d\",\"Refresh\"]],\"_nextBeforeCursor\",\"\",\"_persistRowSelection\",false,\"_toolbarButtonIcon\",[\"^3\",[\"1a\",\"bold/interface-text-formatting-filter-2\",\"3c\",\"bold/interface-download-button-2\",\"4d\",\"bold/interface-arrows-round-left\"]],\"changesetArray\",[],\"_toolbarButtonType\",[\"^3\",[\"1a\",\"filter\",\"3c\",\"custom\",\"4d\",\"custom\"]],\"_columnOptionList\",[\"^3\",[\"0584a\",[\"^3\",[]],\"64b44\",[\"^3\",[]],\"c3ef8\",[\"^3\",[]],\"6972e\",[\"^3\",[]],\"f3479\",[\"^3\",[]],\"3bd30\",[\"^3\",[]],\"9d26a\",[\"^3\",[]],\"0b5fb\",[\"^3\",[]]]],\"_columnValueOverride\",[\"^3\",[\"0584a\",\"\",\"64b44\",\"\",\"c3ef8\",\"\",\"6972e\",\"\",\"f3479\",\"\",\"3bd30\",\"\",\"9d26a\",\"\",\"0b5fb\",\"{{ item }}\"]],\"marginType\",\"normal\",\"_showBorder\",true,\"_templatePageSize\",null,\"_dynamicColumnProperties\",[\"^3\",[]],\"_showHeader\",true,\"_currentPage\",0,\"_columnKey\",[\"^3\",[\"0584a\",\"sourceUrl\",\"64b44\",\"diets\",\"c3ef8\",\"dishTypes\",\"6972e\",\"vegan\",\"f3479\",\"summary\",\"3bd30\",\"state_key\",\"9d26a\",\"vegetarian\",\"0b5fb\",\"title\"]],\"hidden\",false,\"_toolbarButtonIds\",[\"^E\",[\"1a\",\"3c\",\"4d\"]],\"data\",\"{{ lastResults.data }}\",\"_cellSelection\",\"none\",\"_serverPaginated\",false,\"_linkedFilterId\",null,\"searchMode\",\"fuzzy\",\"_columnCellTooltip\",[\"^3\",[\"0584a\",\"\",\"64b44\",\"\",\"c3ef8\",\"\",\"6972e\",\"\",\"f3479\",\"\",\"3bd30\",\"\",\"9d26a\",\"\",\"0b5fb\",\"\"]],\"_columnFormat\",[\"^3\",[\"0584a\",\"link\",\"64b44\",\"tags\",\"c3ef8\",\"tags\",\"6972e\",\"boolean\",\"f3479\",\"html\",\"3bd30\",\"string\",\"9d26a\",\"boolean\",\"0b5fb\",\"string\"]],\"_cursorCache\",[\"^ \"],\"_calculatedPageSize\",null,\"_primaryKeyColumnId\",\"3bd30\",\"selectedDataIndex\",null,\"_columnAlignment\",[\"^3\",[\"0584a\",\"left\",\"64b44\",\"left\",\"c3ef8\",\"left\",\"6972e\",\"left\",\"f3479\",\"left\",\"3bd30\",\"left\",\"9d26a\",\"left\",\"0b5fb\",\"left\"]],\"_actionIcon\",[\"^3\",[\"32a62\",\"bold/interface-delete-bin-1\",\"420b5\",\"bold/interface-edit-view\"]],\"_columnTooltip\",[\"^3\",[\"0584a\",\"\",\"64b44\",\"\",\"c3ef8\",\"\",\"6972e\",\"\",\"f3479\",\"\",\"3bd30\",\"\",\"9d26a\",\"\",\"0b5fb\",\"\"]],\"_columnIcon\",[\"^3\",[\"0584a\",\"\",\"64b44\",\"\",\"c3ef8\",\"\",\"6972e\",\"\",\"f3479\",\"\",\"3bd30\",\"\",\"9d26a\",\"\",\"0b5fb\",\"\"]],\"_alwaysShowRowSelectionCheckboxes\",false,\"_columnCellTooltipMode\",[\"^3\",[\"0584a\",\"\",\"64b44\",\"overflow\",\"c3ef8\",\"overflow\",\"6972e\",\"\",\"f3479\",\"\",\"3bd30\",\"\",\"9d26a\",\"\",\"0b5fb\",\"\"]],\"_pageSize\",null,\"showInEditor\",false,\"selectedSourceRows\",[],\"_enableExpandableRows\",false,\"_selectMultipleRowsOnActionClick\",\"no\",\"_columnSortDisabled\",[\"^3\",[\"0584a\",false,\"64b44\",false,\"c3ef8\",false,\"6972e\",false,\"f3479\",false,\"3bd30\",false,\"9d26a\",false,\"0b5fb\",false]],\"_showSummaryRow\",false,\"filterStack\",null,\"_expandedRows\",null,\"changesetObject\",null,\"_actionDisabled\",[\"^3\",[\"32a62\",\"\",\"420b5\",\"\"]],\"_columnReferenceId\",[\"^3\",[\"0584a\",\"\",\"64b44\",\"\",\"c3ef8\",\"\",\"6972e\",\"\",\"f3479\",\"\",\"3bd30\",\"\",\"9d26a\",\"\",\"0b5fb\",\"\"]],\"_dynamicColumnSource\",[],\"_rowSelection\",\"single\",\"_columnCaption\",[\"^3\",[\"0584a\",\"\",\"64b44\",\"\",\"c3ef8\",\"\",\"6972e\",\"\",\"f3479\",\"\",\"3bd30\",\"\",\"9d26a\",\"\",\"0b5fb\",\"\"]],\"_dynamicColumnFormatOptions\",[\"^3\",[]],\"_dynamicRowHeights\",false,\"_columnFormatOptions\",[\"^3\",[\"0584a\",[\"^3\",[\"showUnderline\",\"hover\"]],\"64b44\",[\"^3\",[\"automaticColors\",true]],\"c3ef8\",[\"^3\",[\"automaticColors\",true]],\"6972e\",[\"^3\",[]],\"f3479\",[\"^3\",[]],\"3bd30\",[\"^3\",[]],\"9d26a\",[\"^3\",[]],\"0b5fb\",[\"^3\",[]]]],\"_changeset\",null,\"_afterCursor\",\"\",\"selectedRowKeys\",[],\"_beforeCursor\",\"\",\"_columnSummaryAggregationMode\",[\"^3\",[\"0584a\",\"none\",\"64b44\",\"none\",\"c3ef8\",\"none\",\"6972e\",\"none\",\"f3479\",\"none\",\"3bd30\",\"none\",\"9d26a\",\"none\",\"0b5fb\",\"none\"]],\"searchTerm\",\"\",\"selectedRows\",[],\"_disabledVirtualization\",false,\"_expandedRowDataIndexes\",[],\"_showColumnBorders\",false,\"_columnStatusIndicatorOptions\",[\"^3\",[\"0584a\",[\"^3\",[]],\"64b44\",[\"^3\",[]],\"c3ef8\",[\"^3\",[]],\"6972e\",[\"^3\",[]],\"f3479\",[\"^3\",[]],\"3bd30\",[\"^3\",[]],\"9d26a\",[\"^3\",[]],\"0b5fb\",[\"^3\",[]]]],\"_columnSize\",[\"^3\",[\"3bd30\",100,\"0b5fb\",237,\"f3479\",365,\"c3ef8\",138,\"0584a\",100,\"64b44\",100,\"6972e\",100,\"9d26a\",100]],\"_serverPaginationType\",\"limitOffsetBased\",\"_columnSortMode\",[\"^3\",[\"0584a\",\"default\",\"64b44\",\"default\",\"c3ef8\",\"default\",\"6972e\",\"default\",\"f3479\",\"default\",\"3bd30\",\"default\",\"9d26a\",\"default\",\"0b5fb\",\"default\"]],\"_selectSingleRowsOnActionClick\",\"replace\",\"_showFooter\",true,\"_groupedColumnConfig\",[\"^3\",[]],\"_dynamicColumnSize\",[\"^3\",[]],\"_virtualizeStartIndex\",0,\"_toolbarButtonHidden\",[\"^3\",[\"1a\",\"\",\"3c\",\"\",\"4d\",\"\"]],\"_defaultFilters\",[\"^3\",[]],\"events\",[\"^E\",[[\"^3\",[\"event\",\"clickAction\",\"type\",\"widget\",\"method\",\"open\",\"pluginId\",\"modal1\",\"targetId\",\"420b5\",\"params\",[\"^3\",[]],\"waitType\",\"debounce\",\"waitMs\",\"0\"]],[\"^3\",[\"event\",\"clickAction\",\"type\",\"datasource\",\"method\",\"trigger\",\"pluginId\",\"deleteResultKey\",\"targetId\",\"32a62\",\"params\",[\"^3\",[]],\"waitType\",\"debounce\",\"waitMs\",\"0\"]],[\"^3\",[\"event\",\"clickAction\",\"type\",\"datasource\",\"method\",\"trigger\",\"pluginId\",\"lastResults\",\"targetId\",\"32a62\",\"params\",[\"^3\",[]],\"waitType\",\"debounce\",\"waitMs\",\"0\"]],[\"^3\",[\"event\",\"clickAction\",\"type\",\"widget\",\"method\",null,\"pluginId\",\"\",\"targetId\",\"c545b\",\"params\",[\"^3\",[]],\"waitType\",\"debounce\",\"waitMs\",\"0\"]],[\"^3\",[\"event\",\"clickCell\",\"type\",\"util\",\"method\",\"openUrl\",\"pluginId\",\"\",\"targetId\",\"99f8b\",\"params\",[\"^3\",[\"url\",\"{{ item }}\"]],\"waitType\",\"debounce\",\"waitMs\",\"0\"]],[\"^3\",[\"event\",\"clickCell\",\"type\",\"util\",\"method\",\"openUrl\",\"pluginId\",\"\",\"targetId\",\"0584a\",\"params\",[\"^3\",[\"url\",\"{{ item }}\"]],\"waitType\",\"debounce\",\"waitMs\",\"0\"]],[\"^3\",[\"event\",\"clickCell\",\"type\",\"util\",\"method\",\"openUrl\",\"pluginId\",\"\",\"targetId\",\"6f63f\",\"params\",[\"^3\",[\"url\",\"{{ item }}\"]],\"waitType\",\"debounce\",\"waitMs\",\"0\"]]]],\"_columnEditable\",[\"^3\",[\"0584a\",\"\",\"64b44\",\"\",\"c3ef8\",\"\",\"6972e\",\"\",\"f3479\",\"\",\"3bd30\",\"false\",\"9d26a\",\"\",\"0b5fb\",\"\"]],\"_rowBackgroundColor\",[],\"emptyMessage\",\"No rows found\",\"pagination\",null,\"selectedDataIndexes\",[],\"_columnGroupAggregationMode\",[\"^3\",[\"0584a\",\"none\",\"64b44\",\"none\",\"c3ef8\",\"none\",\"6972e\",\"none\",\"f3479\",\"none\",\"3bd30\",\"none\",\"9d26a\",\"none\",\"0b5fb\",\"none\"]],\"sortArray\",[],\"_selectedCell\",null,\"overflowType\",\"scroll\",\"selectedCell\",null,\"_defaultSelectedRow\",[\"^3\",[\"mode\",\"index\",\"indexType\",\"display\",\"index\",0]],\"_hasNextPage\",false,\"_includeRowInChangesetArray\",false,\"_columnPosition\",[\"^3\",[\"0584a\",\"center\",\"64b44\",\"center\",\"c3ef8\",\"center\",\"6972e\",\"center\",\"f3479\",\"center\",\"3bd30\",\"center\",\"9d26a\",\"center\",\"0b5fb\",\"center\"]],\"_enableSaveActions\",true,\"_columnPlaceholder\",[\"^3\",[\"0584a\",\"\",\"64b44\",\"Select options\",\"c3ef8\",\"Select options\",\"6972e\",\"Enter value\",\"f3479\",\"Enter value\",\"3bd30\",\"Enter value\",\"9d26a\",\"Enter value\",\"0b5fb\",\"Enter value\"]],\"_defaultFilterOperator\",\"and\",\"_actionLabel\",[\"^3\",[\"32a62\",\"Delete\",\"420b5\",\"Open\"]],\"_virtualizeEndIndex\",0,\"selectedRow\",null,\"_actionHidden\",[\"^3\",[\"32a62\",\"\",\"420b5\",\"\"]],\"maintainSpaceWhenHidden\",false,\"_columnHidden\",[\"^3\",[\"0584a\",\"\",\"64b44\",\"\",\"c3ef8\",\"\",\"6972e\",\"\",\"f3479\",\"\",\"3bd30\",\"true\",\"9d26a\",\"\",\"0b5fb\",\"\"]],\"_columnLabel\",[\"^3\",[\"0584a\",\"Source URL\",\"64b44\",\"Diets\",\"c3ef8\",\"Dish types\",\"6972e\",\"Vegan\",\"f3479\",\"Summary\",\"3bd30\",\"State key\",\"9d26a\",\"Vegetarian\",\"0b5fb\",\"Name\"]],\"_showToolbar\",false]],\"^;\",[\"^3\",[]],\"^<\",[\"^0\",[\"^ \",\"n\",\"position2\",\"v\",[\"^ \",\"^@\",\"container2\",\"^F\",\"body\",\"^G\",\"5316a\",\"row\",0,\"col\",0,\"^H\",6.799999999999999,\"^I\",12,\"^J\",0]]],\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1700653305962\",\"^B\",\"~m1701681009428\",\"^C\",\"\",\"^D\",null]]],\"deleteRequestKey\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"deleteRequestKey\",\"^4\",null,\"^5\",\"datasource\",\"^6\",\"RESTQuery\",\"^7\",null,\"^8\",\"94d5cdcd-d531-4110-b8ed-9c14b376d676\",\"^9\",\"catalyst_api\",\"^:\",[\"^3\",[\"queryRefreshTime\",\"\",\"paginationLimit\",\"\",\"allowedGroupIds\",[\"^E\",[]],\"streamResponse\",false,\"body\",\"\",\"lastReceivedFromResourceAt\",null,\"queryDisabledMessage\",\"\",\"servedFromCache\",false,\"offlineUserQueryInputs\",\"\",\"successMessage\",\"\",\"queryDisabled\",\"\",\"playgroundQuerySaveId\",\"latest\",\"workflowParams\",null,\"resourceNameOverride\",\"\",\"runWhenModelUpdates\",false,\"paginationPaginationField\",\"\",\"headers\",\"\",\"workflowRunId\",null,\"showFailureToaster\",true,\"paginationEnabled\",false,\"query\",\"/v1.0/state/database/{{ requestList.selectedRow.key }}\",\"playgroundQueryUuid\",\"\",\"playgroundQueryId\",null,\"error\",null,\"workflowRunBodyType\",\"raw\",\"privateParams\",[\"^E\",[]],\"workflowBlockUuid\",null,\"runWhenPageLoadsDelay\",\"\",\"data\",null,\"importedQueryInputs\",[\"^3\",[]],\"isImported\",false,\"showSuccessToaster\",true,\"cacheKeyTtl\",\"\",\"requestSentTimestamp\",null,\"cookies\",\"\",\"metadata\",null,\"workflowActionType\",null,\"queryRunTime\",null,\"changesetObject\",\"\",\"errorTransformer\",\"// The variable 'data' allows you to reference the request's data in the transformer. \\n// example: return data.find(element => element.isError)\\nreturn data.error\",\"finished\",null,\"confirmationMessage\",\"Confirm you want to delete a previous request\",\"isFetching\",false,\"changeset\",\"\",\"rawData\",null,\"queryTriggerDelay\",\"0\",\"resourceTypeOverride\",null,\"watchedParams\",[\"^E\",[]],\"enableErrorTransformer\",false,\"showLatestVersionUpdatedWarning\",false,\"paginationDataField\",\"\",\"timestamp\",0,\"importedQueryDefaults\",[\"^3\",[]],\"enableTransformer\",false,\"showUpdateSetValueDynamicallyToggle\",true,\"version\",2,\"overrideOrgCacheForUserCache\",false,\"runWhenPageLoads\",false,\"transformer\",\"// Query results are available as the `data` variable\\nreturn data\",\"events\",[\"^E\",[]],\"queryTimeout\",\"10000\",\"workflowId\",null,\"requireConfirmation\",true,\"type\",\"DELETE\",\"queryFailureConditions\",\"\",\"changesetIsObject\",false,\"enableCaching\",false,\"allowedGroups\",[\"^E\",[]],\"workflowBlockPluginId\",null,\"bodyType\",\"json\",\"offlineQueryType\",\"None\",\"queryThrottleTime\",\"750\",\"updateSetValueDynamically\",false,\"notificationDuration\",\"\"]],\"^;\",null,\"^<\",null,\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1700653687330\",\"^B\",\"~m1701421748332\",\"^C\",\"\",\"^D\",null]]],\"deleteResultKey\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"deleteResultKey\",\"^4\",null,\"^5\",\"datasource\",\"^6\",\"RESTQuery\",\"^7\",null,\"^8\",\"94d5cdcd-d531-4110-b8ed-9c14b376d676\",\"^9\",\"catalyst_api\",\"^:\",[\"^3\",[\"queryRefreshTime\",\"\",\"paginationLimit\",\"\",\"allowedGroupIds\",[\"^E\",[]],\"streamResponse\",false,\"body\",\"\",\"lastReceivedFromResourceAt\",null,\"queryDisabledMessage\",\"\",\"servedFromCache\",false,\"offlineUserQueryInputs\",\"\",\"successMessage\",\"\",\"queryDisabled\",\"\",\"playgroundQuerySaveId\",\"latest\",\"workflowParams\",null,\"resourceNameOverride\",\"\",\"runWhenModelUpdates\",false,\"paginationPaginationField\",\"\",\"headers\",\"\",\"workflowRunId\",null,\"showFailureToaster\",true,\"paginationEnabled\",false,\"query\",\"/v1.0/state/database/{{ resultList.selectedRow.state_key}}\",\"playgroundQueryUuid\",\"\",\"playgroundQueryId\",null,\"error\",null,\"workflowRunBodyType\",\"raw\",\"privateParams\",[\"^E\",[]],\"workflowBlockUuid\",null,\"runWhenPageLoadsDelay\",\"\",\"data\",null,\"importedQueryInputs\",[\"^3\",[]],\"isImported\",false,\"showSuccessToaster\",true,\"cacheKeyTtl\",\"\",\"requestSentTimestamp\",null,\"cookies\",\"\",\"metadata\",null,\"workflowActionType\",null,\"queryRunTime\",null,\"changesetObject\",\"\",\"errorTransformer\",\"// The variable 'data' allows you to reference the request's data in the transformer. \\n// example: return data.find(element => element.isError)\\nreturn data.error\",\"finished\",null,\"confirmationMessage\",\"Confirm you want to delete an existing recipe\",\"isFetching\",false,\"changeset\",\"\",\"rawData\",null,\"queryTriggerDelay\",\"0\",\"resourceTypeOverride\",null,\"watchedParams\",[\"^E\",[]],\"enableErrorTransformer\",false,\"showLatestVersionUpdatedWarning\",false,\"paginationDataField\",\"\",\"timestamp\",0,\"importedQueryDefaults\",[\"^3\",[]],\"enableTransformer\",false,\"showUpdateSetValueDynamicallyToggle\",true,\"version\",2,\"overrideOrgCacheForUserCache\",false,\"runWhenPageLoads\",false,\"transformer\",\"// Query results are available as the `data` variable\\nreturn data\",\"events\",[\"^E\",[]],\"queryTimeout\",\"10000\",\"workflowId\",null,\"requireConfirmation\",true,\"type\",\"DELETE\",\"queryFailureConditions\",\"\",\"changesetIsObject\",false,\"enableCaching\",false,\"allowedGroups\",[\"^E\",[]],\"workflowBlockPluginId\",null,\"bodyType\",\"json\",\"offlineQueryType\",\"None\",\"queryThrottleTime\",\"750\",\"updateSetValueDynamically\",false,\"notificationDuration\",\"\"]],\"^;\",null,\"^<\",null,\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1700653922554\",\"^B\",\"~m1701421750984\",\"^C\",\"\",\"^D\",null]]],\"modal1\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"modal1\",\"^4\",\"a974f127-e817-4c57-b68e-f534c5a94705\",\"^5\",\"widget\",\"^6\",\"ModalWidget\",\"^7\",null,\"^8\",null,\"^9\",null,\"^:\",[\"^3\",[\"opened\",false,\"modalOverflowType\",\"scroll\",\"hidden\",\"true\",\"onModalClose\",\"\",\"modalHeightType\",\"fixed\",\"tooltipText\",\"\",\"modalHeight\",\"\",\"onModalOpen\",\"\",\"modalWidth\",\"\",\"closeOnOutsideClick\",true,\"loading\",\"\",\"disabled\",\"\",\"buttonText\",\"Open Modal\"]],\"^;\",[\"^3\",[]],\"^<\",[\"^0\",[\"^ \",\"n\",\"position2\",\"v\",[\"^ \",\"^@\",\"\",\"^F\",\"body\",\"^G\",\"\",\"row\",29.799999999999997,\"col\",2,\"^H\",1,\"^I\",3,\"^J\",0]]],\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1700654248668\",\"^B\",\"~m1700654283820\",\"^C\",\"\",\"^D\",null]]],\"text1\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"text1\",\"^4\",\"e7c92e25-9068-48d0-bab0-79f4817e486a\",\"^5\",\"widget\",\"^6\",\"TextWidget2\",\"^7\",null,\"^8\",null,\"^9\",null,\"^:\",[\"^3\",[\"heightType\",\"auto\",\"horizontalAlign\",\"left\",\"marginType\",\"normal\",\"hidden\",false,\"imageWidth\",\"fit\",\"showInEditor\",false,\"verticalAlign\",\"center\",\"tooltipText\",\"\",\"value\",\"**{{ resultList.selectedRow.title }}**\",\"disableMarkdown\",false,\"overflowType\",\"scroll\",\"maintainSpaceWhenHidden\",false]],\"^;\",[\"^3\",[]],\"^<\",[\"^0\",[\"^ \",\"n\",\"position2\",\"v\",[\"^ \",\"^@\",\"modal1\",\"^F\",\"body\",\"^G\",\"\",\"row\",0,\"col\",0,\"^H\",0.6,\"^I\",12,\"^J\",0]]],\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1700654366328\",\"^B\",\"~m1701421750995\",\"^C\",\"\",\"^D\",null]]],\"text2\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"text2\",\"^4\",\"d53e4ceb-d025-429a-8d0a-5b2f805c53bc\",\"^5\",\"widget\",\"^6\",\"TextWidget2\",\"^7\",null,\"^8\",null,\"^9\",null,\"^:\",[\"^3\",[\"heightType\",\"auto\",\"horizontalAlign\",\"left\",\"marginType\",\"normal\",\"hidden\",false,\"imageWidth\",\"fit\",\"showInEditor\",false,\"verticalAlign\",\"center\",\"tooltipText\",\"\",\"value\",\"{{ resultList.selectedRow.summary }}\",\"disableMarkdown\",false,\"overflowType\",\"scroll\",\"maintainSpaceWhenHidden\",false]],\"^;\",[\"^3\",[]],\"^<\",[\"^0\",[\"^ \",\"n\",\"position2\",\"v\",[\"^ \",\"^@\",\"modal1\",\"^F\",\"body\",\"^G\",\"\",\"row\",1.7999999999999998,\"col\",0,\"^H\",0.5999999999999996,\"^I\",12,\"^J\",0]]],\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1700654369901\",\"^B\",\"~m1701421751002\",\"^C\",\"\",\"^D\",null]]],\"mealType\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"mealType\",\"^4\",\"0c936442-b3e3-43ca-9ec7-9a85b520a629\",\"^5\",\"widget\",\"^6\",\"SelectWidget2\",\"^7\",null,\"^8\",null,\"^9\",null,\"^:\",[\"^3\",[\"imageByIndex\",[],\"_disabledByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"showSelectionIndicator\",true,\"_values\",[\"^E\",[\"main course\",\"appetizer\",\"dessert\"]],\"iconByIndex\",[],\"values\",[],\"readOnly\",false,\"iconAfter\",\"\",\"_iconByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"overlayMinWidth\",null,\"allowDeselect\",false,\"inputValue\",\"\",\"marginType\",\"normal\",\"hidden\",false,\"customValidation\",\"\",\"data\",[],\"searchMode\",\"fuzzy\",\"hideValidationMessage\",false,\"fallbackTextByIndex\",[],\"textBefore\",\"\",\"_fallbackTextByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"selectedItem\",null,\"validationMessage\",\"\",\"automaticItemColors\",false,\"itemAdornmentShape\",\"circle\",\"textAfter\",\"\",\"showInEditor\",false,\"showClear\",false,\"tooltipText\",\"\",\"labelAlign\",\"left\",\"formDataKey\",\"{{ self.id }}\",\"value\",null,\"hiddenByIndex\",[],\"labelCaption\",\"\",\"labelWidth\",\"33\",\"deprecatedLabels\",[],\"_hiddenByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"placeholder\",\"Select an option\",\"_captionByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"itemAdornmentSize\",\"auto\",\"label\",\"Meal type\",\"_hasMigratedNestedItems\",true,\"captionByIndex\",[],\"_validate\",false,\"itemMode\",\"static\",\"labelWidthUnit\",\"%\",\"allowCustomValue\",false,\"invalid\",false,\"selectedIndex\",null,\"_tooltipByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"_colorByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"tooltipByIndex\",[],\"iconBefore\",\"\",\"colorByIndex\",[],\"selectedLabel\",\"\",\"events\",[\"^3\",[]],\"_ids\",[\"^E\",[\"a4b02\",\"d8edf\",\"84c8b\"]],\"emptyMessage\",\"No options\",\"overlayMaxHeight\",375,\"loading\",false,\"disabled\",false,\"labelPosition\",\"left\",\"_labels\",[\"^E\",[\"Main course\",\"Appetizer\",\"Dessert\"]],\"labelWrap\",false,\"disabledValues\",[],\"disabledByIndex\",[],\"maintainSpaceWhenHidden\",false,\"_imageByIndex\",[\"^E\",[\"\",\"\",\"\"]],\"required\",true,\"labels\",[]]],\"^;\",[\"^3\",[]],\"^<\",[\"^0\",[\"^ \",\"n\",\"position2\",\"v\",[\"^ \",\"^@\",\"requestForm\",\"^F\",\"body\",\"^G\",\"\",\"row\",0,\"col\",0,\"^H\",0.2,\"^I\",12,\"^J\",0]]],\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1700659050812\",\"^B\",\"~m1700659213403\",\"^C\",\"\",\"^D\",null]]],\"container1\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"container1\",\"^4\",\"a71cbcad-eac7-49a0-8d71-6763e51cee74\",\"^5\",\"widget\",\"^6\",\"ContainerWidget2\",\"^7\",null,\"^8\",null,\"^9\",null,\"^:\",[\"^3\",[\"_disabledByIndex\",[\"^E\",[\"\"]],\"heightType\",\"auto\",\"currentViewKey\",null,\"iconByIndex\",[],\"clickable\",false,\"_iconByIndex\",[\"^E\",[\"\"]],\"showFooterBorder\",true,\"marginType\",\"normal\",\"enableFullBleed\",false,\"showBorder\",true,\"hidden\",false,\"showHeader\",true,\"hoistFetching\",false,\"paddingType\",\"normal\",\"views\",[],\"showInEditor\",false,\"footerPaddingType\",\"normal\",\"tooltipText\",\"\",\"hiddenByIndex\",[],\"_hiddenByIndex\",[\"^E\",[\"\"]],\"currentViewIndex\",null,\"_hasMigratedNestedItems\",true,\"transition\",\"none\",\"showHeaderBorder\",true,\"itemMode\",\"static\",\"_tooltipByIndex\",[\"^E\",[\"\"]],\"tooltipByIndex\",[],\"showFooter\",false,\"_viewKeys\",[\"^E\",[\"View 1\"]],\"events\",[\"^3\",[]],\"_ids\",[\"^E\",[\"5316a\"]],\"viewKeys\",[],\"iconPositionByIndex\",[],\"_iconPositionByIndex\",[\"^E\",[\"\"]],\"hovered\",false,\"loading\",false,\"overflowType\",\"scroll\",\"disabled\",false,\"_labels\",[\"^E\",[\"\"]],\"headerPaddingType\",\"normal\",\"disabledByIndex\",[],\"maintainSpaceWhenHidden\",false,\"showBody\",true,\"labels\",[]]],\"^;\",[\"^3\",[]],\"^<\",[\"^0\",[\"^ \",\"n\",\"position2\",\"v\",[\"^ \",\"^@\",\"\",\"^F\",\"body\",\"^G\",\"\",\"row\",-1.7763568394002505e-15,\"col\",6,\"^H\",3.8,\"^I\",6,\"^J\",0]]],\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1701421770622\",\"^B\",\"~m1701421770622\",\"^C\",\"\",\"^D\",null]]],\"containerTitle1\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"containerTitle1\",\"^4\",\"46e962f8-dcdd-4262-b06a-232550420fbb\",\"^5\",\"widget\",\"^6\",\"TextWidget2\",\"^7\",null,\"^8\",null,\"^9\",null,\"^:\",[\"^3\",[\"heightType\",\"auto\",\"horizontalAlign\",\"left\",\"marginType\",\"normal\",\"hidden\",false,\"imageWidth\",\"fit\",\"showInEditor\",false,\"verticalAlign\",\"center\",\"tooltipText\",\"\",\"value\",\"#### Requests\",\"disableMarkdown\",false,\"overflowType\",\"scroll\",\"maintainSpaceWhenHidden\",false]],\"^;\",[\"^3\",[]],\"^<\",[\"^0\",[\"^ \",\"n\",\"position2\",\"v\",[\"^ \",\"^@\",\"container1\",\"^F\",\"header\",\"^G\",\"\",\"row\",0,\"col\",0,\"^H\",0.6,\"^I\",12,\"^J\",0]]],\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1701421770628\",\"^B\",\"~m1701421804743\",\"^C\",\"\",\"^D\",null]]],\"container2\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"container2\",\"^4\",\"4168e66e-1071-4c5f-be40-5de9a8015a04\",\"^5\",\"widget\",\"^6\",\"ContainerWidget2\",\"^7\",null,\"^8\",null,\"^9\",null,\"^:\",[\"^3\",[\"_disabledByIndex\",[\"^E\",[\"\"]],\"heightType\",\"auto\",\"currentViewKey\",null,\"iconByIndex\",[],\"clickable\",false,\"_iconByIndex\",[\"^E\",[\"\"]],\"showFooterBorder\",true,\"marginType\",\"normal\",\"enableFullBleed\",false,\"showBorder\",true,\"hidden\",false,\"showHeader\",true,\"hoistFetching\",false,\"paddingType\",\"normal\",\"views\",[],\"showInEditor\",false,\"footerPaddingType\",\"normal\",\"tooltipText\",\"\",\"hiddenByIndex\",[],\"_hiddenByIndex\",[\"^E\",[\"\"]],\"currentViewIndex\",null,\"_hasMigratedNestedItems\",true,\"transition\",\"none\",\"showHeaderBorder\",true,\"itemMode\",\"static\",\"_tooltipByIndex\",[\"^E\",[\"\"]],\"tooltipByIndex\",[],\"showFooter\",false,\"_viewKeys\",[\"^E\",[\"View 1\"]],\"events\",[\"^3\",[]],\"_ids\",[\"^E\",[\"5316a\"]],\"viewKeys\",[],\"iconPositionByIndex\",[],\"_iconPositionByIndex\",[\"^E\",[\"\"]],\"hovered\",false,\"loading\",false,\"overflowType\",\"scroll\",\"disabled\",false,\"_labels\",[\"^E\",[\"\"]],\"headerPaddingType\",\"normal\",\"disabledByIndex\",[],\"maintainSpaceWhenHidden\",false,\"showBody\",true,\"labels\",[]]],\"^;\",[\"^3\",[]],\"^<\",[\"^0\",[\"^ \",\"n\",\"position2\",\"v\",[\"^ \",\"^@\",\"\",\"^F\",\"body\",\"^G\",\"\",\"row\",7.199999999999999,\"col\",0,\"^H\",3.8,\"^I\",12,\"^J\",0]]],\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1701421936697\",\"^B\",\"~m1701421936697\",\"^C\",\"\",\"^D\",null]]],\"containerTitle2\",[\"^0\",[\"^ \",\"n\",\"pluginTemplate\",\"v\",[\"^ \",\"id\",\"containerTitle2\",\"^4\",\"d6ebd3e7-89a1-4bb1-9144-e5b8fcbfeeea\",\"^5\",\"widget\",\"^6\",\"TextWidget2\",\"^7\",null,\"^8\",null,\"^9\",null,\"^:\",[\"^3\",[\"heightType\",\"auto\",\"horizontalAlign\",\"left\",\"marginType\",\"normal\",\"hidden\",false,\"imageWidth\",\"fit\",\"showInEditor\",false,\"verticalAlign\",\"center\",\"tooltipText\",\"\",\"value\",\"#### Recipes\",\"disableMarkdown\",false,\"overflowType\",\"scroll\",\"maintainSpaceWhenHidden\",false]],\"^;\",[\"^3\",[]],\"^<\",[\"^0\",[\"^ \",\"n\",\"position2\",\"v\",[\"^ \",\"^@\",\"container2\",\"^F\",\"header\",\"^G\",\"\",\"row\",0,\"col\",0,\"^H\",0.6,\"^I\",12,\"^J\",0]]],\"^=\",null,\"^>\",null,\"^?\",null,\"^@\",\"\",\"^A\",\"~m1701421936761\",\"^B\",\"~m1701422023703\",\"^C\",\"\",\"^D\",null]]]]],\"^A\",null,\"version\",\"3.24.0\",\"appThemeId\",-1,\"appThemeName\",null,\"appMaxWidth\",\"1560px\",\"preloadedAppJavaScript\",null,\"preloadedAppJSLinks\",[],\"testEntities\",[],\"tests\",[],\"appStyles\",\"\",\"responsiveLayoutDisabled\",false,\"loadingIndicatorsDisabled\",false,\"urlFragmentDefinitions\",[\"^E\",[]],\"pageLoadValueOverrides\",[\"^E\",[]],\"customDocumentTitle\",\"\",\"customDocumentTitleEnabled\",false,\"customShortcuts\",[],\"isGlobalWidget\",false,\"isMobileApp\",false,\"isFormApp\",false,\"shortlink\",null,\"multiScreenMobileApp\",false,\"mobileAppSettings\",[\"^ \",\"mobileOfflineModeEnabled\",false,\"mobileOfflineModeDelaySync\",false,\"mobileOfflineModeBannerMode\",\"default\",\"displaySetting\",[\"^ \",\"landscapeMode\",false,\"tabletMode\",false]],\"folders\",[\"^E\",[]],\"queryStatusVisibility\",false,\"markdownLinkBehavior\",\"auto\",\"inAppRetoolPillAppearance\",\"NO_OVERRIDE\",\"rootScreen\",null,\"instrumentationEnabled\",false,\"experimentalFeatures\",[\"^ \",\"sourceControlTemplateDehydration\",false],\"experimentalDataTabEnabled\",true,\"customComponentCollections\",[],\"savePlatform\",\"web\"]]]"
+    },
+    "changesRecord": [
+      {
+        "type": "WIDGET_TEMPLATE_UPDATE",
+        "payload": {
+          "plugin": {
+            "id": "resultList",
+            "type": "widget",
+            "uuid": "362dec59-ba47-44f3-bdb8-e5ab758fb9a6",
+            "style": {},
+            "folder": "",
+            "screen": null,
+            "subtype": "TableWidget2",
+            "tabIndex": null,
+            "template": {
+              "data": "{{ lastResults.data }}",
+              "events": [
+                {
+                  "type": "widget",
+                  "event": "clickAction",
+                  "method": "open",
+                  "params": {},
+                  "waitMs": "0",
+                  "pluginId": "modal1",
+                  "targetId": "420b5",
+                  "waitType": "debounce"
+                },
+                {
+                  "type": "datasource",
+                  "event": "clickAction",
+                  "method": "trigger",
+                  "params": {},
+                  "waitMs": "0",
+                  "pluginId": "deleteResultKey",
+                  "targetId": "32a62",
+                  "waitType": "debounce"
+                },
+                {
+                  "type": "datasource",
+                  "event": "clickAction",
+                  "method": "trigger",
+                  "params": {},
+                  "waitMs": "0",
+                  "pluginId": "lastResults",
+                  "targetId": "32a62",
+                  "waitType": "debounce"
+                },
+                {
+                  "type": "widget",
+                  "event": "clickAction",
+                  "method": null,
+                  "params": {},
+                  "waitMs": "0",
+                  "pluginId": "",
+                  "targetId": "c545b",
+                  "waitType": "debounce"
+                },
+                {
+                  "type": "util",
+                  "event": "clickCell",
+                  "method": "openUrl",
+                  "params": {
+                    "url": "{{ item }}"
+                  },
+                  "waitMs": "0",
+                  "pluginId": "",
+                  "targetId": "99f8b",
+                  "waitType": "debounce"
+                },
+                {
+                  "type": "util",
+                  "event": "clickCell",
+                  "method": "openUrl",
+                  "params": {
+                    "url": "{{ item }}"
+                  },
+                  "waitMs": "0",
+                  "pluginId": "",
+                  "targetId": "0584a",
+                  "waitType": "debounce"
+                },
+                {
+                  "type": "util",
+                  "event": "clickCell",
+                  "method": "openUrl",
+                  "params": {
+                    "url": "{{ item }}"
+                  },
+                  "waitMs": "0",
+                  "pluginId": "",
+                  "targetId": "6f63f",
+                  "waitType": "debounce"
+                }
+              ],
+              "hidden": false,
+              "_isSaving": false,
+              "_pageSize": null,
+              "sortArray": [],
+              "_actionIds": [
+                "420b5",
+                "32a62"
+              ],
+              "_changeset": null,
+              "_columnIds": [
+                "3bd30",
+                "0b5fb",
+                "f3479",
+                "c3ef8",
+                "0584a",
+                "64b44",
+                "6972e",
+                "9d26a"
+              ],
+              "_columnKey": {
+                "0584a": "sourceUrl",
+                "0b5fb": "title",
+                "3bd30": "state_key",
+                "64b44": "diets",
+                "6972e": "vegan",
+                "9d26a": "vegetarian",
+                "c3ef8": "dishTypes",
+                "f3479": "summary"
+              },
+              "_rowHeight": "medium",
+              "heightType": "fixed",
+              "marginType": "normal",
+              "pagination": null,
+              "searchMode": "fuzzy",
+              "searchTerm": "",
+              "_actionIcon": {
+                "32a62": "bold/interface-delete-bin-1",
+                "420b5": "bold/interface-edit-view"
+              },
+              "_columnIcon": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_columnSize": {
+                "0584a": 100,
+                "0b5fb": 237,
+                "3bd30": 100,
+                "64b44": 100,
+                "6972e": 100,
+                "9d26a": 100,
+                "c3ef8": 138,
+                "f3479": 342
+              },
+              "_showBorder": true,
+              "_showFooter": true,
+              "_showHeader": true,
+              "disableSave": false,
+              "filterStack": null,
+              "selectedRow": null,
+              "_actionLabel": {
+                "32a62": "Delete",
+                "420b5": "Open"
+              },
+              "_afterCursor": "",
+              "_columnLabel": {
+                "0584a": "Source URL",
+                "0b5fb": "Name",
+                "3bd30": "State key",
+                "64b44": "Diets",
+                "6972e": "Vegan",
+                "9d26a": "Vegetarian",
+                "c3ef8": "Dish types",
+                "f3479": "Summary"
+              },
+              "_currentPage": 0,
+              "_cursorCache": {},
+              "_defaultSort": null,
+              "_hasNextPage": false,
+              "_showToolbar": false,
+              "disableEdits": false,
+              "emptyMessage": "No rows found",
+              "overflowType": "scroll",
+              "selectedCell": null,
+              "selectedRows": [],
+              "showInEditor": false,
+              "_actionHidden": {
+                "32a62": "",
+                "420b5": ""
+              },
+              "_beforeCursor": "",
+              "_columnFormat": {
+                "0584a": "link",
+                "0b5fb": "string",
+                "3bd30": "string",
+                "64b44": "tags",
+                "6972e": "boolean",
+                "9d26a": "boolean",
+                "c3ef8": "tags",
+                "f3479": "html"
+              },
+              "_columnHidden": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "true",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_expandedRows": null,
+              "_rowSelection": "single",
+              "_selectedCell": null,
+              "_cellSelection": "none",
+              "_columnCaption": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_columnTooltip": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "changesetArray": [],
+              "selectedRowKey": null,
+              "_actionDisabled": {
+                "32a62": "",
+                "420b5": ""
+              },
+              "_clearChangeset": false,
+              "_columnEditable": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "false",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_columnPosition": {
+                "0584a": "center",
+                "0b5fb": "center",
+                "3bd30": "center",
+                "64b44": "center",
+                "6972e": "center",
+                "9d26a": "center",
+                "c3ef8": "center",
+                "f3479": "center"
+              },
+              "_columnSortMode": {
+                "0584a": "default",
+                "0b5fb": "default",
+                "3bd30": "default",
+                "64b44": "default",
+                "6972e": "default",
+                "9d26a": "default",
+                "c3ef8": "default",
+                "f3479": "default"
+              },
+              "_defaultFilters": {},
+              "_groupByColumns": [],
+              "_linkedFilterId": null,
+              "_showSummaryRow": false,
+              "autoColumnWidth": false,
+              "changesetObject": null,
+              "selectedRowKeys": [],
+              "_columnAlignment": {
+                "0584a": "left",
+                "0b5fb": "left",
+                "3bd30": "left",
+                "64b44": "left",
+                "6972e": "left",
+                "9d26a": "left",
+                "c3ef8": "left",
+                "f3479": "left"
+              },
+              "_columnTextColor": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_nextAfterCursor": "",
+              "_serverPaginated": false,
+              "_toolbarPosition": "bottom",
+              "_columnOptionList": {
+                "0584a": {},
+                "0b5fb": {},
+                "3bd30": {},
+                "64b44": {},
+                "6972e": {},
+                "9d26a": {},
+                "c3ef8": {},
+                "f3479": {}
+              },
+              "_nextBeforeCursor": "",
+              "_templatePageSize": null,
+              "_toolbarButtonIds": [
+                "1a",
+                "3c",
+                "4d"
+              ],
+              "selectedDataIndex": null,
+              "selectedSourceRow": null,
+              "_columnCellTooltip": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_columnPlaceholder": {
+                "0584a": "",
+                "0b5fb": "Enter value",
+                "3bd30": "Enter value",
+                "64b44": "Select options",
+                "6972e": "Enter value",
+                "9d26a": "Enter value",
+                "c3ef8": "Select options",
+                "f3479": "Enter value"
+              },
+              "_columnReferenceId": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_dynamicColumnSize": {},
+              "_dynamicRowHeights": false,
+              "_enableSaveActions": true,
+              "_showColumnBorders": false,
+              "_toolbarButtonIcon": {
+                "1a": "bold/interface-text-formatting-filter-2",
+                "3c": "bold/interface-download-button-2",
+                "4d": "bold/interface-arrows-round-left"
+              },
+              "_toolbarButtonType": {
+                "1a": "filter",
+                "3c": "custom",
+                "4d": "custom"
+              },
+              "selectedSourceRows": [],
+              "_calculatedPageSize": null,
+              "_columnSortDisabled": {
+                "0584a": false,
+                "0b5fb": false,
+                "3bd30": false,
+                "64b44": false,
+                "6972e": false,
+                "9d26a": false,
+                "c3ef8": false,
+                "f3479": false
+              },
+              "_defaultSelectedRow": {
+                "mode": "index",
+                "index": 0,
+                "indexType": "display"
+              },
+              "_primaryKeyColumnId": "3bd30",
+              "_rowBackgroundColor": [],
+              "_toolbarButtonLabel": {
+                "1a": "Filter",
+                "3c": "Download",
+                "4d": "Refresh"
+              },
+              "_virtualizeEndIndex": 0,
+              "selectedDataIndexes": [],
+              "_columnFormatOptions": {
+                "0584a": {
+                  "showUnderline": "hover"
+                },
+                "0b5fb": {},
+                "3bd30": {},
+                "64b44": {
+                  "automaticColors": true
+                },
+                "6972e": {},
+                "9d26a": {},
+                "c3ef8": {
+                  "automaticColors": true
+                },
+                "f3479": {}
+              },
+              "_columnValueOverride": {
+                "0584a": "",
+                "0b5fb": "{{ item }}",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_dynamicColumnSource": [],
+              "_groupedColumnConfig": {},
+              "_limitOffsetRowCount": null,
+              "_persistRowSelection": false,
+              "_toolbarButtonHidden": {
+                "1a": "",
+                "3c": "",
+                "4d": ""
+              },
+              "_clearChangesetOnSave": true,
+              "_enableExpandableRows": false,
+              "_serverPaginationType": "limitOffsetBased",
+              "_virtualizeStartIndex": 0,
+              "_columnBackgroundColor": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_columnCellTooltipMode": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "overflow",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "overflow",
+                "f3479": ""
+              },
+              "_columnEditableOptions": {
+                "0584a": {},
+                "0b5fb": {},
+                "3bd30": {},
+                "64b44": {},
+                "6972e": {},
+                "9d26a": {},
+                "c3ef8": {},
+                "f3479": {}
+              },
+              "_defaultFilterOperator": "and",
+              "_dynamicColumnsEnabled": false,
+              "caseSensitiveFiltering": false,
+              "_disabledVirtualization": false,
+              "_expandedRowDataIndexes": [],
+              "maintainSpaceWhenHidden": false,
+              "_dynamicColumnProperties": {},
+              "_columnGroupAggregationMode": {
+                "0584a": "none",
+                "0b5fb": "none",
+                "3bd30": "none",
+                "64b44": "none",
+                "6972e": "none",
+                "9d26a": "none",
+                "c3ef8": "none",
+                "f3479": "none"
+              },
+              "_dynamicColumnFormatOptions": {},
+              "_includeRowInChangesetArray": false,
+              "_columnStatusIndicatorOptions": {
+                "0584a": {},
+                "0b5fb": {},
+                "3bd30": {},
+                "64b44": {},
+                "6972e": {},
+                "9d26a": {},
+                "c3ef8": {},
+                "f3479": {}
+              },
+              "_columnSummaryAggregationMode": {
+                "0584a": "none",
+                "0b5fb": "none",
+                "3bd30": "none",
+                "64b44": "none",
+                "6972e": "none",
+                "9d26a": "none",
+                "c3ef8": "none",
+                "f3479": "none"
+              },
+              "_selectSingleRowsOnActionClick": "replace",
+              "_selectMultipleRowsOnActionClick": "no",
+              "_alwaysShowRowSelectionCheckboxes": false
+            },
+            "container": "",
+            "createdAt": "2023-11-22T11:41:45.962Z",
+            "namespace": null,
+            "position2": {
+              "col": 0,
+              "row": 0,
+              "width": 12,
+              "height": 6.799999999999999,
+              "tabNum": 0,
+              "rowGroup": "body",
+              "container": "container2",
+              "subcontainer": "5316a"
+            },
+            "updatedAt": "2023-12-04T09:09:56.828Z",
+            "resourceName": null,
+            "mobilePosition2": null,
+            "mobileAppPosition": null,
+            "resourceDisplayName": null
+          },
+          "update": {
+            "_columnSize": {
+              "0584a": 100,
+              "0b5fb": 237,
+              "3bd30": 100,
+              "64b44": 100,
+              "6972e": 100,
+              "9d26a": 100,
+              "c3ef8": 138,
+              "f3479": 356
+            }
+          },
+          "widgetId": "resultList",
+          "shouldRecalculateTemplate": true
+        },
+        "isUserTriggered": true
+      },
+      {
+        "type": "WIDGET_TEMPLATE_UPDATE",
+        "payload": {
+          "plugin": {
+            "id": "resultList",
+            "type": "widget",
+            "uuid": "362dec59-ba47-44f3-bdb8-e5ab758fb9a6",
+            "style": {},
+            "folder": "",
+            "screen": null,
+            "subtype": "TableWidget2",
+            "tabIndex": null,
+            "template": {
+              "data": "{{ lastResults.data }}",
+              "events": [
+                {
+                  "type": "widget",
+                  "event": "clickAction",
+                  "method": "open",
+                  "params": {},
+                  "waitMs": "0",
+                  "pluginId": "modal1",
+                  "targetId": "420b5",
+                  "waitType": "debounce"
+                },
+                {
+                  "type": "datasource",
+                  "event": "clickAction",
+                  "method": "trigger",
+                  "params": {},
+                  "waitMs": "0",
+                  "pluginId": "deleteResultKey",
+                  "targetId": "32a62",
+                  "waitType": "debounce"
+                },
+                {
+                  "type": "datasource",
+                  "event": "clickAction",
+                  "method": "trigger",
+                  "params": {},
+                  "waitMs": "0",
+                  "pluginId": "lastResults",
+                  "targetId": "32a62",
+                  "waitType": "debounce"
+                },
+                {
+                  "type": "widget",
+                  "event": "clickAction",
+                  "method": null,
+                  "params": {},
+                  "waitMs": "0",
+                  "pluginId": "",
+                  "targetId": "c545b",
+                  "waitType": "debounce"
+                },
+                {
+                  "type": "util",
+                  "event": "clickCell",
+                  "method": "openUrl",
+                  "params": {
+                    "url": "{{ item }}"
+                  },
+                  "waitMs": "0",
+                  "pluginId": "",
+                  "targetId": "99f8b",
+                  "waitType": "debounce"
+                },
+                {
+                  "type": "util",
+                  "event": "clickCell",
+                  "method": "openUrl",
+                  "params": {
+                    "url": "{{ item }}"
+                  },
+                  "waitMs": "0",
+                  "pluginId": "",
+                  "targetId": "0584a",
+                  "waitType": "debounce"
+                },
+                {
+                  "type": "util",
+                  "event": "clickCell",
+                  "method": "openUrl",
+                  "params": {
+                    "url": "{{ item }}"
+                  },
+                  "waitMs": "0",
+                  "pluginId": "",
+                  "targetId": "6f63f",
+                  "waitType": "debounce"
+                }
+              ],
+              "hidden": false,
+              "_isSaving": false,
+              "_pageSize": null,
+              "sortArray": [],
+              "_actionIds": [
+                "420b5",
+                "32a62"
+              ],
+              "_changeset": null,
+              "_columnIds": [
+                "3bd30",
+                "0b5fb",
+                "f3479",
+                "c3ef8",
+                "0584a",
+                "64b44",
+                "6972e",
+                "9d26a"
+              ],
+              "_columnKey": {
+                "0584a": "sourceUrl",
+                "0b5fb": "title",
+                "3bd30": "state_key",
+                "64b44": "diets",
+                "6972e": "vegan",
+                "9d26a": "vegetarian",
+                "c3ef8": "dishTypes",
+                "f3479": "summary"
+              },
+              "_rowHeight": "medium",
+              "heightType": "fixed",
+              "marginType": "normal",
+              "pagination": null,
+              "searchMode": "fuzzy",
+              "searchTerm": "",
+              "_actionIcon": {
+                "32a62": "bold/interface-delete-bin-1",
+                "420b5": "bold/interface-edit-view"
+              },
+              "_columnIcon": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_columnSize": {
+                "0584a": 100,
+                "0b5fb": 237,
+                "3bd30": 100,
+                "64b44": 100,
+                "6972e": 100,
+                "9d26a": 100,
+                "c3ef8": 138,
+                "f3479": 356
+              },
+              "_showBorder": true,
+              "_showFooter": true,
+              "_showHeader": true,
+              "disableSave": false,
+              "filterStack": null,
+              "selectedRow": null,
+              "_actionLabel": {
+                "32a62": "Delete",
+                "420b5": "Open"
+              },
+              "_afterCursor": "",
+              "_columnLabel": {
+                "0584a": "Source URL",
+                "0b5fb": "Name",
+                "3bd30": "State key",
+                "64b44": "Diets",
+                "6972e": "Vegan",
+                "9d26a": "Vegetarian",
+                "c3ef8": "Dish types",
+                "f3479": "Summary"
+              },
+              "_currentPage": 0,
+              "_cursorCache": {},
+              "_defaultSort": null,
+              "_hasNextPage": false,
+              "_showToolbar": false,
+              "disableEdits": false,
+              "emptyMessage": "No rows found",
+              "overflowType": "scroll",
+              "selectedCell": null,
+              "selectedRows": [],
+              "showInEditor": false,
+              "_actionHidden": {
+                "32a62": "",
+                "420b5": ""
+              },
+              "_beforeCursor": "",
+              "_columnFormat": {
+                "0584a": "link",
+                "0b5fb": "string",
+                "3bd30": "string",
+                "64b44": "tags",
+                "6972e": "boolean",
+                "9d26a": "boolean",
+                "c3ef8": "tags",
+                "f3479": "html"
+              },
+              "_columnHidden": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "true",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_expandedRows": null,
+              "_rowSelection": "single",
+              "_selectedCell": null,
+              "_cellSelection": "none",
+              "_columnCaption": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_columnTooltip": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "changesetArray": [],
+              "selectedRowKey": null,
+              "_actionDisabled": {
+                "32a62": "",
+                "420b5": ""
+              },
+              "_clearChangeset": false,
+              "_columnEditable": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "false",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_columnPosition": {
+                "0584a": "center",
+                "0b5fb": "center",
+                "3bd30": "center",
+                "64b44": "center",
+                "6972e": "center",
+                "9d26a": "center",
+                "c3ef8": "center",
+                "f3479": "center"
+              },
+              "_columnSortMode": {
+                "0584a": "default",
+                "0b5fb": "default",
+                "3bd30": "default",
+                "64b44": "default",
+                "6972e": "default",
+                "9d26a": "default",
+                "c3ef8": "default",
+                "f3479": "default"
+              },
+              "_defaultFilters": {},
+              "_groupByColumns": [],
+              "_linkedFilterId": null,
+              "_showSummaryRow": false,
+              "autoColumnWidth": false,
+              "changesetObject": null,
+              "selectedRowKeys": [],
+              "_columnAlignment": {
+                "0584a": "left",
+                "0b5fb": "left",
+                "3bd30": "left",
+                "64b44": "left",
+                "6972e": "left",
+                "9d26a": "left",
+                "c3ef8": "left",
+                "f3479": "left"
+              },
+              "_columnTextColor": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_nextAfterCursor": "",
+              "_serverPaginated": false,
+              "_toolbarPosition": "bottom",
+              "_columnOptionList": {
+                "0584a": {},
+                "0b5fb": {},
+                "3bd30": {},
+                "64b44": {},
+                "6972e": {},
+                "9d26a": {},
+                "c3ef8": {},
+                "f3479": {}
+              },
+              "_nextBeforeCursor": "",
+              "_templatePageSize": null,
+              "_toolbarButtonIds": [
+                "1a",
+                "3c",
+                "4d"
+              ],
+              "selectedDataIndex": null,
+              "selectedSourceRow": null,
+              "_columnCellTooltip": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_columnPlaceholder": {
+                "0584a": "",
+                "0b5fb": "Enter value",
+                "3bd30": "Enter value",
+                "64b44": "Select options",
+                "6972e": "Enter value",
+                "9d26a": "Enter value",
+                "c3ef8": "Select options",
+                "f3479": "Enter value"
+              },
+              "_columnReferenceId": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_dynamicColumnSize": {},
+              "_dynamicRowHeights": false,
+              "_enableSaveActions": true,
+              "_showColumnBorders": false,
+              "_toolbarButtonIcon": {
+                "1a": "bold/interface-text-formatting-filter-2",
+                "3c": "bold/interface-download-button-2",
+                "4d": "bold/interface-arrows-round-left"
+              },
+              "_toolbarButtonType": {
+                "1a": "filter",
+                "3c": "custom",
+                "4d": "custom"
+              },
+              "selectedSourceRows": [],
+              "_calculatedPageSize": null,
+              "_columnSortDisabled": {
+                "0584a": false,
+                "0b5fb": false,
+                "3bd30": false,
+                "64b44": false,
+                "6972e": false,
+                "9d26a": false,
+                "c3ef8": false,
+                "f3479": false
+              },
+              "_defaultSelectedRow": {
+                "mode": "index",
+                "index": 0,
+                "indexType": "display"
+              },
+              "_primaryKeyColumnId": "3bd30",
+              "_rowBackgroundColor": [],
+              "_toolbarButtonLabel": {
+                "1a": "Filter",
+                "3c": "Download",
+                "4d": "Refresh"
+              },
+              "_virtualizeEndIndex": 0,
+              "selectedDataIndexes": [],
+              "_columnFormatOptions": {
+                "0584a": {
+                  "showUnderline": "hover"
+                },
+                "0b5fb": {},
+                "3bd30": {},
+                "64b44": {
+                  "automaticColors": true
+                },
+                "6972e": {},
+                "9d26a": {},
+                "c3ef8": {
+                  "automaticColors": true
+                },
+                "f3479": {}
+              },
+              "_columnValueOverride": {
+                "0584a": "",
+                "0b5fb": "{{ item }}",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_dynamicColumnSource": [],
+              "_groupedColumnConfig": {},
+              "_limitOffsetRowCount": null,
+              "_persistRowSelection": false,
+              "_toolbarButtonHidden": {
+                "1a": "",
+                "3c": "",
+                "4d": ""
+              },
+              "_clearChangesetOnSave": true,
+              "_enableExpandableRows": false,
+              "_serverPaginationType": "limitOffsetBased",
+              "_virtualizeStartIndex": 0,
+              "_columnBackgroundColor": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_columnCellTooltipMode": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "overflow",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "overflow",
+                "f3479": ""
+              },
+              "_columnEditableOptions": {
+                "0584a": {},
+                "0b5fb": {},
+                "3bd30": {},
+                "64b44": {},
+                "6972e": {},
+                "9d26a": {},
+                "c3ef8": {},
+                "f3479": {}
+              },
+              "_defaultFilterOperator": "and",
+              "_dynamicColumnsEnabled": false,
+              "caseSensitiveFiltering": false,
+              "_disabledVirtualization": false,
+              "_expandedRowDataIndexes": [],
+              "maintainSpaceWhenHidden": false,
+              "_dynamicColumnProperties": {},
+              "_columnGroupAggregationMode": {
+                "0584a": "none",
+                "0b5fb": "none",
+                "3bd30": "none",
+                "64b44": "none",
+                "6972e": "none",
+                "9d26a": "none",
+                "c3ef8": "none",
+                "f3479": "none"
+              },
+              "_dynamicColumnFormatOptions": {},
+              "_includeRowInChangesetArray": false,
+              "_columnStatusIndicatorOptions": {
+                "0584a": {},
+                "0b5fb": {},
+                "3bd30": {},
+                "64b44": {},
+                "6972e": {},
+                "9d26a": {},
+                "c3ef8": {},
+                "f3479": {}
+              },
+              "_columnSummaryAggregationMode": {
+                "0584a": "none",
+                "0b5fb": "none",
+                "3bd30": "none",
+                "64b44": "none",
+                "6972e": "none",
+                "9d26a": "none",
+                "c3ef8": "none",
+                "f3479": "none"
+              },
+              "_selectSingleRowsOnActionClick": "replace",
+              "_selectMultipleRowsOnActionClick": "no",
+              "_alwaysShowRowSelectionCheckboxes": false
+            },
+            "container": "",
+            "createdAt": "2023-11-22T11:41:45.962Z",
+            "namespace": null,
+            "position2": {
+              "col": 0,
+              "row": 0,
+              "width": 12,
+              "height": 6.799999999999999,
+              "tabNum": 0,
+              "rowGroup": "body",
+              "container": "container2",
+              "subcontainer": "5316a"
+            },
+            "updatedAt": "2023-12-04T09:10:07.310Z",
+            "resourceName": null,
+            "mobilePosition2": null,
+            "mobileAppPosition": null,
+            "resourceDisplayName": null
+          },
+          "update": {
+            "_columnSize": {
+              "0584a": 100,
+              "0b5fb": 237,
+              "3bd30": 100,
+              "64b44": 100,
+              "6972e": 100,
+              "9d26a": 100,
+              "c3ef8": 138,
+              "f3479": 364
+            }
+          },
+          "widgetId": "resultList",
+          "shouldRecalculateTemplate": true
+        },
+        "isUserTriggered": true
+      },
+      {
+        "type": "WIDGET_TEMPLATE_UPDATE",
+        "payload": {
+          "plugin": {
+            "id": "resultList",
+            "type": "widget",
+            "uuid": "362dec59-ba47-44f3-bdb8-e5ab758fb9a6",
+            "style": {},
+            "folder": "",
+            "screen": null,
+            "subtype": "TableWidget2",
+            "tabIndex": null,
+            "template": {
+              "data": "{{ lastResults.data }}",
+              "events": [
+                {
+                  "type": "widget",
+                  "event": "clickAction",
+                  "method": "open",
+                  "params": {},
+                  "waitMs": "0",
+                  "pluginId": "modal1",
+                  "targetId": "420b5",
+                  "waitType": "debounce"
+                },
+                {
+                  "type": "datasource",
+                  "event": "clickAction",
+                  "method": "trigger",
+                  "params": {},
+                  "waitMs": "0",
+                  "pluginId": "deleteResultKey",
+                  "targetId": "32a62",
+                  "waitType": "debounce"
+                },
+                {
+                  "type": "datasource",
+                  "event": "clickAction",
+                  "method": "trigger",
+                  "params": {},
+                  "waitMs": "0",
+                  "pluginId": "lastResults",
+                  "targetId": "32a62",
+                  "waitType": "debounce"
+                },
+                {
+                  "type": "widget",
+                  "event": "clickAction",
+                  "method": null,
+                  "params": {},
+                  "waitMs": "0",
+                  "pluginId": "",
+                  "targetId": "c545b",
+                  "waitType": "debounce"
+                },
+                {
+                  "type": "util",
+                  "event": "clickCell",
+                  "method": "openUrl",
+                  "params": {
+                    "url": "{{ item }}"
+                  },
+                  "waitMs": "0",
+                  "pluginId": "",
+                  "targetId": "99f8b",
+                  "waitType": "debounce"
+                },
+                {
+                  "type": "util",
+                  "event": "clickCell",
+                  "method": "openUrl",
+                  "params": {
+                    "url": "{{ item }}"
+                  },
+                  "waitMs": "0",
+                  "pluginId": "",
+                  "targetId": "0584a",
+                  "waitType": "debounce"
+                },
+                {
+                  "type": "util",
+                  "event": "clickCell",
+                  "method": "openUrl",
+                  "params": {
+                    "url": "{{ item }}"
+                  },
+                  "waitMs": "0",
+                  "pluginId": "",
+                  "targetId": "6f63f",
+                  "waitType": "debounce"
+                }
+              ],
+              "hidden": false,
+              "_isSaving": false,
+              "_pageSize": null,
+              "sortArray": [],
+              "_actionIds": [
+                "420b5",
+                "32a62"
+              ],
+              "_changeset": null,
+              "_columnIds": [
+                "3bd30",
+                "0b5fb",
+                "f3479",
+                "c3ef8",
+                "0584a",
+                "64b44",
+                "6972e",
+                "9d26a"
+              ],
+              "_columnKey": {
+                "0584a": "sourceUrl",
+                "0b5fb": "title",
+                "3bd30": "state_key",
+                "64b44": "diets",
+                "6972e": "vegan",
+                "9d26a": "vegetarian",
+                "c3ef8": "dishTypes",
+                "f3479": "summary"
+              },
+              "_rowHeight": "medium",
+              "heightType": "fixed",
+              "marginType": "normal",
+              "pagination": null,
+              "searchMode": "fuzzy",
+              "searchTerm": "",
+              "_actionIcon": {
+                "32a62": "bold/interface-delete-bin-1",
+                "420b5": "bold/interface-edit-view"
+              },
+              "_columnIcon": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_columnSize": {
+                "0584a": 100,
+                "0b5fb": 237,
+                "3bd30": 100,
+                "64b44": 100,
+                "6972e": 100,
+                "9d26a": 100,
+                "c3ef8": 138,
+                "f3479": 364
+              },
+              "_showBorder": true,
+              "_showFooter": true,
+              "_showHeader": true,
+              "disableSave": false,
+              "filterStack": null,
+              "selectedRow": null,
+              "_actionLabel": {
+                "32a62": "Delete",
+                "420b5": "Open"
+              },
+              "_afterCursor": "",
+              "_columnLabel": {
+                "0584a": "Source URL",
+                "0b5fb": "Name",
+                "3bd30": "State key",
+                "64b44": "Diets",
+                "6972e": "Vegan",
+                "9d26a": "Vegetarian",
+                "c3ef8": "Dish types",
+                "f3479": "Summary"
+              },
+              "_currentPage": 0,
+              "_cursorCache": {},
+              "_defaultSort": null,
+              "_hasNextPage": false,
+              "_showToolbar": false,
+              "disableEdits": false,
+              "emptyMessage": "No rows found",
+              "overflowType": "scroll",
+              "selectedCell": null,
+              "selectedRows": [],
+              "showInEditor": false,
+              "_actionHidden": {
+                "32a62": "",
+                "420b5": ""
+              },
+              "_beforeCursor": "",
+              "_columnFormat": {
+                "0584a": "link",
+                "0b5fb": "string",
+                "3bd30": "string",
+                "64b44": "tags",
+                "6972e": "boolean",
+                "9d26a": "boolean",
+                "c3ef8": "tags",
+                "f3479": "html"
+              },
+              "_columnHidden": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "true",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_expandedRows": null,
+              "_rowSelection": "single",
+              "_selectedCell": null,
+              "_cellSelection": "none",
+              "_columnCaption": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_columnTooltip": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "changesetArray": [],
+              "selectedRowKey": null,
+              "_actionDisabled": {
+                "32a62": "",
+                "420b5": ""
+              },
+              "_clearChangeset": false,
+              "_columnEditable": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "false",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_columnPosition": {
+                "0584a": "center",
+                "0b5fb": "center",
+                "3bd30": "center",
+                "64b44": "center",
+                "6972e": "center",
+                "9d26a": "center",
+                "c3ef8": "center",
+                "f3479": "center"
+              },
+              "_columnSortMode": {
+                "0584a": "default",
+                "0b5fb": "default",
+                "3bd30": "default",
+                "64b44": "default",
+                "6972e": "default",
+                "9d26a": "default",
+                "c3ef8": "default",
+                "f3479": "default"
+              },
+              "_defaultFilters": {},
+              "_groupByColumns": [],
+              "_linkedFilterId": null,
+              "_showSummaryRow": false,
+              "autoColumnWidth": false,
+              "changesetObject": null,
+              "selectedRowKeys": [],
+              "_columnAlignment": {
+                "0584a": "left",
+                "0b5fb": "left",
+                "3bd30": "left",
+                "64b44": "left",
+                "6972e": "left",
+                "9d26a": "left",
+                "c3ef8": "left",
+                "f3479": "left"
+              },
+              "_columnTextColor": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_nextAfterCursor": "",
+              "_serverPaginated": false,
+              "_toolbarPosition": "bottom",
+              "_columnOptionList": {
+                "0584a": {},
+                "0b5fb": {},
+                "3bd30": {},
+                "64b44": {},
+                "6972e": {},
+                "9d26a": {},
+                "c3ef8": {},
+                "f3479": {}
+              },
+              "_nextBeforeCursor": "",
+              "_templatePageSize": null,
+              "_toolbarButtonIds": [
+                "1a",
+                "3c",
+                "4d"
+              ],
+              "selectedDataIndex": null,
+              "selectedSourceRow": null,
+              "_columnCellTooltip": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_columnPlaceholder": {
+                "0584a": "",
+                "0b5fb": "Enter value",
+                "3bd30": "Enter value",
+                "64b44": "Select options",
+                "6972e": "Enter value",
+                "9d26a": "Enter value",
+                "c3ef8": "Select options",
+                "f3479": "Enter value"
+              },
+              "_columnReferenceId": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_dynamicColumnSize": {},
+              "_dynamicRowHeights": false,
+              "_enableSaveActions": true,
+              "_showColumnBorders": false,
+              "_toolbarButtonIcon": {
+                "1a": "bold/interface-text-formatting-filter-2",
+                "3c": "bold/interface-download-button-2",
+                "4d": "bold/interface-arrows-round-left"
+              },
+              "_toolbarButtonType": {
+                "1a": "filter",
+                "3c": "custom",
+                "4d": "custom"
+              },
+              "selectedSourceRows": [],
+              "_calculatedPageSize": null,
+              "_columnSortDisabled": {
+                "0584a": false,
+                "0b5fb": false,
+                "3bd30": false,
+                "64b44": false,
+                "6972e": false,
+                "9d26a": false,
+                "c3ef8": false,
+                "f3479": false
+              },
+              "_defaultSelectedRow": {
+                "mode": "index",
+                "index": 0,
+                "indexType": "display"
+              },
+              "_primaryKeyColumnId": "3bd30",
+              "_rowBackgroundColor": [],
+              "_toolbarButtonLabel": {
+                "1a": "Filter",
+                "3c": "Download",
+                "4d": "Refresh"
+              },
+              "_virtualizeEndIndex": 0,
+              "selectedDataIndexes": [],
+              "_columnFormatOptions": {
+                "0584a": {
+                  "showUnderline": "hover"
+                },
+                "0b5fb": {},
+                "3bd30": {},
+                "64b44": {
+                  "automaticColors": true
+                },
+                "6972e": {},
+                "9d26a": {},
+                "c3ef8": {
+                  "automaticColors": true
+                },
+                "f3479": {}
+              },
+              "_columnValueOverride": {
+                "0584a": "",
+                "0b5fb": "{{ item }}",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_dynamicColumnSource": [],
+              "_groupedColumnConfig": {},
+              "_limitOffsetRowCount": null,
+              "_persistRowSelection": false,
+              "_toolbarButtonHidden": {
+                "1a": "",
+                "3c": "",
+                "4d": ""
+              },
+              "_clearChangesetOnSave": true,
+              "_enableExpandableRows": false,
+              "_serverPaginationType": "limitOffsetBased",
+              "_virtualizeStartIndex": 0,
+              "_columnBackgroundColor": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "",
+                "f3479": ""
+              },
+              "_columnCellTooltipMode": {
+                "0584a": "",
+                "0b5fb": "",
+                "3bd30": "",
+                "64b44": "overflow",
+                "6972e": "",
+                "9d26a": "",
+                "c3ef8": "overflow",
+                "f3479": ""
+              },
+              "_columnEditableOptions": {
+                "0584a": {},
+                "0b5fb": {},
+                "3bd30": {},
+                "64b44": {},
+                "6972e": {},
+                "9d26a": {},
+                "c3ef8": {},
+                "f3479": {}
+              },
+              "_defaultFilterOperator": "and",
+              "_dynamicColumnsEnabled": false,
+              "caseSensitiveFiltering": false,
+              "_disabledVirtualization": false,
+              "_expandedRowDataIndexes": [],
+              "maintainSpaceWhenHidden": false,
+              "_dynamicColumnProperties": {},
+              "_columnGroupAggregationMode": {
+                "0584a": "none",
+                "0b5fb": "none",
+                "3bd30": "none",
+                "64b44": "none",
+                "6972e": "none",
+                "9d26a": "none",
+                "c3ef8": "none",
+                "f3479": "none"
+              },
+              "_dynamicColumnFormatOptions": {},
+              "_includeRowInChangesetArray": false,
+              "_columnStatusIndicatorOptions": {
+                "0584a": {},
+                "0b5fb": {},
+                "3bd30": {},
+                "64b44": {},
+                "6972e": {},
+                "9d26a": {},
+                "c3ef8": {},
+                "f3479": {}
+              },
+              "_columnSummaryAggregationMode": {
+                "0584a": "none",
+                "0b5fb": "none",
+                "3bd30": "none",
+                "64b44": "none",
+                "6972e": "none",
+                "9d26a": "none",
+                "c3ef8": "none",
+                "f3479": "none"
+              },
+              "_selectSingleRowsOnActionClick": "replace",
+              "_selectMultipleRowsOnActionClick": "no",
+              "_alwaysShowRowSelectionCheckboxes": false
+            },
+            "container": "",
+            "createdAt": "2023-11-22T11:41:45.962Z",
+            "namespace": null,
+            "position2": {
+              "col": 0,
+              "row": 0,
+              "width": 12,
+              "height": 6.799999999999999,
+              "tabNum": 0,
+              "rowGroup": "body",
+              "container": "container2",
+              "subcontainer": "5316a"
+            },
+            "updatedAt": "2023-12-04T09:10:08.661Z",
+            "resourceName": null,
+            "mobilePosition2": null,
+            "mobileAppPosition": null,
+            "resourceDisplayName": null
+          },
+          "update": {
+            "_columnSize": {
+              "0584a": 100,
+              "0b5fb": 237,
+              "3bd30": 100,
+              "64b44": 100,
+              "6972e": 100,
+              "9d26a": 100,
+              "c3ef8": 138,
+              "f3479": 365
+            }
+          },
+          "widgetId": "resultList",
+          "shouldRecalculateTemplate": true
+        },
+        "isUserTriggered": true
+      }
+    ],
+    "gitSha": null,
+    "checksum": null,
+    "createdAt": "2023-12-04T09:10:11.864Z",
+    "updatedAt": "2023-12-04T09:10:11.864Z",
+    "pageId": 2656257,
+    "userId": 835454,
+    "branchId": null,
+    "page": {
+      "name": "recipe-maker"
+    }
+  },
+  "modules": {}
+}
