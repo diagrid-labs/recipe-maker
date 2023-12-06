@@ -1,49 +1,40 @@
 # Recipe Maker Demo App
 
+![Demo Overview Image](images/recipe-maker-overview.png)
+
 ## Overview
-This is designed to retrieve recipes based on specific criteria such as food type, recipe difficulty, and dietary restrictions. It integrates with an external recipe API to fetch relevant recipes and interacts with Catalyst to store data.
 
-## Requirements
-- Python 3.6 or higher
-- `functions-framework` module
-- `requests` module
-- Access to an (Spoonacular recipe API)[https://spoonacular.com/food-api]
+This repository contains the code for a comprehensive demonstration of an event-driven Recipe Maker application. The project showcases the integration of various cloud-native services, including Retool, Google Cloud Functions, Neon database, and Diagrid Catalyst, to create an event-driven architecture.
 
-## Installation
-1. **Install Python Packages**:
-   - Install `functions-framework` and `requests` using pip:
-     ```bash
-     pip install functions-framework requests
-     ```
+### Explore the Tutorial
 
-2. **API Key**:
-   - Obtain Spoonacular API
+To understand how the different components are connected and learn how to build this application, check out the detailed tutorial in the accompanying blog post. It provides a step-by-step guide to creating an event-driven system using these technologies.
 
-## Setup
+Read the [Blog Post](https://www.diagrid.io/blog/transforming-crud-to-event-driven)
 
-1. **Deployment**:
-   - Deploy the function to Google Cloud
+### Watch the Live Demo
 
-## Usage
-- **Sending a Request**:
-  - Send a JSON payload to the function's HTTP endpoint with the following structure:
-    ```json
-        {
-            "key": "123e4567-e89b-12d3-a456-426614174000",
-            "value": {
-                "request": "true",
-                "foodType": "pasta",
-                "recipeDifficulty": "easy",
-                "foodRestrictions": "vegetarian",
-                "createdAt": "2023-11-22T12:00:00Z"
-            }
-        }
-    ```
+See the entire process in action by watching the live demonstration on YouTube. The video illustrates how to transform a conventional CRUD application into an event-driven system.
 
-- **Receiving a Response**:
-  - The function will return a recipe or a relevant message based on the provided criteria.
+Watch the [Demo Video](https://youtu.be/zrbXd5FKCe0?t=2147)
 
-## Function Details
-- **`get_recipe_http`**:
-  - This is the main function that handles incoming HTTP requests.
-  - It extracts the payload, fetches a recipe using the given criteria, and returns the recipe details.
+## Project Structure
+
+This repository is organized into two main parts:
+
+1. **Retool App Code:** Contains the code for the Retool application that serves as the frontend of the Recipe Maker.
+
+2. **Python Function Code:** Includes the Python function responsible for processing events and fetching recipes from external sources.
+
+## Getting Started
+
+Follow the instructions provided in the blog post to set up and run this event-driven Recipe Maker demo on your own. The tutorial includes detailed steps, configurations, and explanations.
+
+## Contributions
+
+Contributions and improvements are welcome! If you have ideas for enhancements or discover any issues, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the Apache License. See the [LICENSE](LICENSE) file for details.
+
