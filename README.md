@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the code for a comprehensive demonstration of an event-driven Recipe Maker application. The project showcases the integration of various cloud-native services, including Retool, Google Cloud Functions, Neon database, and Diagrid Catalyst, to create an event-driven architecture.
+This repository contains the code for a comprehensive demonstration of an event-driven Recipe Maker application. The project showcases the integration of various cloud-native services, including Retool, Google Cloud Functions, Neon database, and Diagrid, to create an event-driven architecture.
 
 ### Explore the Tutorial
 

@@ -1,7 +1,7 @@
 # Recipe Maker Function
 
 ## Overview
-This is designed to retrieve recipes based on specific criteria such as food type, recipe difficulty, and dietary restrictions. It integrates with an external recipe API to fetch relevant recipes and interacts with Catalyst to store data.
+This is designed to retrieve recipes based on specific criteria such as food type, recipe difficulty, and dietary restrictions. It integrates with an external recipe API to fetch relevant recipes and interacts with Diagrid to store data.
 
 ## Requirements
 - Python 3.6 or higher
